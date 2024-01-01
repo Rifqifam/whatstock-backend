@@ -1,0 +1,6 @@
+Django==5.0
+django-ninja==1.1.0
+django-cors-headers==3.13.0
+firebase-admin==6.3.0
+python-decouple==3.8
+fireo==2.2.1
