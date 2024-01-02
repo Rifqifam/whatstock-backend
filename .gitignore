@@ -6,6 +6,9 @@ __pycache__/
 # local files
 model/
 
+#key folder
+key/
+
 # C extensions
 *.so
 
