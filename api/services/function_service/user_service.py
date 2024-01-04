@@ -11,6 +11,7 @@ from datetime import datetime, timedelta
 from dateutil import tz
 from django.utils import timezone
 import os
+from api.services.file_upload.storage_service import StorageService
 
 
 class UserService:
@@ -70,6 +71,9 @@ class UserService:
 
         return 200, "User info set"
     
+
+
+    
     @staticmethod
     def get_user_by_id(user_id, serialized = False):
         user = User.collection.get(f"user/{user_id}")
@@ -87,8 +91,6 @@ class UserService:
             return UserService.serialize_user(user)
 
 
-        
-
     @staticmethod
     def serialize_user(user):
         if user != None:
@@ -99,37 +101,20 @@ class UserService:
                         "gender":userinfo.gender,
                         "birth_date":userinfo.birth_date,
                         "social":userinfo.social,
-                        "has_taken_meq":userinfo.has_taken_meq,
-                        "me_type":userinfo.me_type,
                         "theme":userinfo.theme if userinfo.theme != None else "light",
-                        "has_taken_tutorial":{
-                            "dashboard":userinfo.has_taken_tutorial_dashboard \
-                                  if userinfo.has_taken_tutorial_dashboard != None else False,
-                            "product":userinfo.has_taken_tutorial_product \
-                                  if userinfo.has_taken_tutorial_product != None else False,
-                            "bom":userinfo.has_taken_tutorial_bom \
-                                  if userinfo.has_taken_tutorial_bom != None else False,
-                            "kansei":userinfo.has_taken_tutorial_kansei \
-                                  if userinfo.has_taken_tutorial_kansei != None else False,
-                            "affinity":userinfo.has_taken_tutorial_affinity \
-                                  if userinfo.has_taken_tutorial_affinity != None else False,
-                        }
                     }
                 else:
                     userinfo_dict = {
                         "gender":None,
                         "birth_date":None,
                         "social":None,
-                        "has_taken_meq":None,
-                        "me_type":None
+                        
                     }
             except:
                 userinfo_dict = {
                     "gender":None,
                     "birth_date":None,
                     "social":None,
-                    "has_taken_meq":None,
-                    "me_type":None
                 }
 
             return {

@@ -11,3 +11,9 @@ class RegisterUser(Schema):
 class LoginUser(Schema):
     email:str
     password:str
+
+class SetUserInfo(Schema):
+    name:str
+    gender:str
+    birth_date:float
+    social:list = []
