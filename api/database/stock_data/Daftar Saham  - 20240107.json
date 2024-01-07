@@ -1,0 +1,6323 @@
+[
+ {
+  "No": 1,
+  "Kode": "AALI",
+  "Nama_Perusahaan": "Astra Agro Lestari Tbk.",
+  "Tanggal_Pencatatan": "09 Des 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 2,
+  "Kode": "ABBA",
+  "Nama_Perusahaan": "Mahaka Media Tbk.",
+  "Tanggal_Pencatatan": "03 Apr 2002",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 3,
+  "Kode": "ABDA",
+  "Nama_Perusahaan": "Asuransi Bina Dana Arta Tbk.",
+  "Tanggal_Pencatatan": "06 Jul 1989",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 4,
+  "Kode": "ABMM",
+  "Nama_Perusahaan": "ABM Investama Tbk.",
+  "Tanggal_Pencatatan": "06 Des 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 5,
+  "Kode": "ACES",
+  "Nama_Perusahaan": "Ace Hardware Indonesia Tbk.",
+  "Tanggal_Pencatatan": "06 Nov 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 6,
+  "Kode": "ACST",
+  "Nama_Perusahaan": "Acset Indonusa Tbk.",
+  "Tanggal_Pencatatan": "24 Jun 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 7,
+  "Kode": "ADCP",
+  "Nama_Perusahaan": "Adhi Commuter Properti Tbk.",
+  "Tanggal_Pencatatan": "21 Mei 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 8,
+  "Kode": "ADES",
+  "Nama_Perusahaan": "Akasha Wira International Tbk.",
+  "Tanggal_Pencatatan": "13 Jun 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 9,
+  "Kode": "ADHI",
+  "Nama_Perusahaan": "Adhi Karya (Persero) Tbk.",
+  "Tanggal_Pencatatan": "18 Mar 2004",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 10,
+  "Kode": "ADMF",
+  "Nama_Perusahaan": "Adira Dinamika Multi Finance T",
+  "Tanggal_Pencatatan": "31 Mar 2004",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 11,
+  "Kode": "ADMG",
+  "Nama_Perusahaan": "Polychem Indonesia Tbk",
+  "Tanggal_Pencatatan": "20 Okt 1993",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 12,
+  "Kode": "ADMR",
+  "Nama_Perusahaan": "Adaro Minerals Indonesia Tbk.",
+  "Tanggal_Pencatatan": "03 Jan 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 13,
+  "Kode": "ADRO",
+  "Nama_Perusahaan": "Adaro Energy Indonesia Tbk.",
+  "Tanggal_Pencatatan": "16 Jul 2008",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 14,
+  "Kode": "AEGS",
+  "Nama_Perusahaan": "Anugerah Spareparts Sejahtera ",
+  "Tanggal_Pencatatan": "11 Sep 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 15,
+  "Kode": "AGAR",
+  "Nama_Perusahaan": "Asia Sejahtera Mina Tbk.",
+  "Tanggal_Pencatatan": "02 Des 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 16,
+  "Kode": "AGII",
+  "Nama_Perusahaan": "Samator Indo Gas Tbk.",
+  "Tanggal_Pencatatan": "28 Sep 2016",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 17,
+  "Kode": "AGRO",
+  "Nama_Perusahaan": "Bank Raya Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Agt 2003",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 18,
+  "Kode": "AGRS",
+  "Nama_Perusahaan": "Bank IBK Indonesia Tbk.",
+  "Tanggal_Pencatatan": "22 Des 2014",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 19,
+  "Kode": "AHAP",
+  "Nama_Perusahaan": "Asuransi Harta Aman Pratama Tb",
+  "Tanggal_Pencatatan": "14 Sep 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 20,
+  "Kode": "AIMS",
+  "Nama_Perusahaan": "Akbar Indo Makmur Stimec Tbk",
+  "Tanggal_Pencatatan": "20 Jul 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 21,
+  "Kode": "AISA",
+  "Nama_Perusahaan": "FKS Food Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "11 Jun 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 22,
+  "Kode": "AKKU",
+  "Nama_Perusahaan": "Anugerah Kagum Karya Utama Tbk",
+  "Tanggal_Pencatatan": "01 Nov 2004",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 23,
+  "Kode": "AKPI",
+  "Nama_Perusahaan": "Argha Karya Prima Industry Tbk",
+  "Tanggal_Pencatatan": "18 Des 1992",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 24,
+  "Kode": "AKRA",
+  "Nama_Perusahaan": "AKR Corporindo Tbk.",
+  "Tanggal_Pencatatan": "03 Okt 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 25,
+  "Kode": "AKSI",
+  "Nama_Perusahaan": "Mineral Sumberdaya Mandiri Tbk",
+  "Tanggal_Pencatatan": "13 Jul 2001",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 26,
+  "Kode": "ALDO",
+  "Nama_Perusahaan": "Alkindo Naratama Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2011",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 27,
+  "Kode": "ALKA",
+  "Nama_Perusahaan": "Alakasa Industrindo Tbk",
+  "Tanggal_Pencatatan": "12 Jul 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 28,
+  "Kode": "ALMI",
+  "Nama_Perusahaan": "Alumindo Light Metal Industry ",
+  "Tanggal_Pencatatan": "02 Jan 1997",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 29,
+  "Kode": "ALTO",
+  "Nama_Perusahaan": "Tri Banyan Tirta Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2012",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 30,
+  "Kode": "AMAG",
+  "Nama_Perusahaan": "Asuransi Multi Artha Guna Tbk.",
+  "Tanggal_Pencatatan": "23 Des 2005",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 31,
+  "Kode": "AMAN",
+  "Nama_Perusahaan": "Makmur Berkah Amanda Tbk.",
+  "Tanggal_Pencatatan": "13 Mar 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 32,
+  "Kode": "AMAR",
+  "Nama_Perusahaan": "Bank Amar Indonesia Tbk.",
+  "Tanggal_Pencatatan": "09 Jan 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 33,
+  "Kode": "AMFG",
+  "Nama_Perusahaan": "Asahimas Flat Glass Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 34,
+  "Kode": "AMIN",
+  "Nama_Perusahaan": "Ateliers Mecaniques D Indonesi",
+  "Tanggal_Pencatatan": "10 Des 2015",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 35,
+  "Kode": "AMMN",
+  "Nama_Perusahaan": "Amman Mineral Internasional Tb",
+  "Tanggal_Pencatatan": "07 Jul 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 36,
+  "Kode": "AMMS",
+  "Nama_Perusahaan": "Agung Menjangan Mas Tbk.",
+  "Tanggal_Pencatatan": "04 Agt 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 37,
+  "Kode": "AMOR",
+  "Nama_Perusahaan": "Ashmore Asset Management Indon",
+  "Tanggal_Pencatatan": "14 Jan 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 38,
+  "Kode": "AMRT",
+  "Nama_Perusahaan": "Sumber Alfaria Trijaya Tbk.",
+  "Tanggal_Pencatatan": "15 Jan 2009",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 39,
+  "Kode": "ANDI",
+  "Nama_Perusahaan": "Andira Agro Tbk.",
+  "Tanggal_Pencatatan": "16 Agt 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 40,
+  "Kode": "ANJT",
+  "Nama_Perusahaan": "Austindo Nusantara Jaya Tbk.",
+  "Tanggal_Pencatatan": "08 Mei 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 41,
+  "Kode": "ANTM",
+  "Nama_Perusahaan": "Aneka Tambang Tbk.",
+  "Tanggal_Pencatatan": "27 Nov 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 42,
+  "Kode": "APEX",
+  "Nama_Perusahaan": "Apexindo Pratama Duta Tbk.",
+  "Tanggal_Pencatatan": "05 Jun 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 43,
+  "Kode": "APIC",
+  "Nama_Perusahaan": "Pacific Strategic Financial Tb",
+  "Tanggal_Pencatatan": "18 Des 2002",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 44,
+  "Kode": "APII",
+  "Nama_Perusahaan": "Arita Prima Indonesia Tbk.",
+  "Tanggal_Pencatatan": "29 Okt 2013",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 45,
+  "Kode": "APLI",
+  "Nama_Perusahaan": "Asiaplast Industries Tbk.",
+  "Tanggal_Pencatatan": "01 Mei 2000",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 46,
+  "Kode": "APLN",
+  "Nama_Perusahaan": "Agung Podomoro Land Tbk.",
+  "Tanggal_Pencatatan": "11 Nov 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 47,
+  "Kode": "ARCI",
+  "Nama_Perusahaan": "Archi Indonesia Tbk.",
+  "Tanggal_Pencatatan": "28 Jun 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 48,
+  "Kode": "ARGO",
+  "Nama_Perusahaan": "Argo Pantes Tbk",
+  "Tanggal_Pencatatan": "07 Jan 1991",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 49,
+  "Kode": "ARII",
+  "Nama_Perusahaan": "Atlas Resources Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2011",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 50,
+  "Kode": "ARKA",
+  "Nama_Perusahaan": "Arkha Jayanti Persada Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 51,
+  "Kode": "ARKO",
+  "Nama_Perusahaan": "Arkora Hydro Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 52,
+  "Kode": "ARMY",
+  "Nama_Perusahaan": "Armidian Karyatama Tbk.",
+  "Tanggal_Pencatatan": "21 Jun 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 53,
+  "Kode": "ARNA",
+  "Nama_Perusahaan": "Arwana Citramulia Tbk.",
+  "Tanggal_Pencatatan": "17 Jul 2001",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 54,
+  "Kode": "ARTA",
+  "Nama_Perusahaan": "Arthavest Tbk",
+  "Tanggal_Pencatatan": "05 Nov 2002",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 55,
+  "Kode": "ARTI",
+  "Nama_Perusahaan": "Ratu Prabu Energi Tbk",
+  "Tanggal_Pencatatan": "30 Apr 2003",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 56,
+  "Kode": "ARTO",
+  "Nama_Perusahaan": "Bank Jago Tbk.",
+  "Tanggal_Pencatatan": "12 Jan 2016",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 57,
+  "Kode": "ASBI",
+  "Nama_Perusahaan": "Asuransi Bintang Tbk.",
+  "Tanggal_Pencatatan": "29 Nov 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 58,
+  "Kode": "ASDM",
+  "Nama_Perusahaan": "Asuransi Dayin Mitra Tbk.",
+  "Tanggal_Pencatatan": "15 Des 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 59,
+  "Kode": "ASGR",
+  "Nama_Perusahaan": "Astra Graphia Tbk.",
+  "Tanggal_Pencatatan": "15 Nov 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 60,
+  "Kode": "ASHA",
+  "Nama_Perusahaan": "Cilacap Samudera Fishing Indus",
+  "Tanggal_Pencatatan": "27 Mei 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 61,
+  "Kode": "ASII",
+  "Nama_Perusahaan": "Astra International Tbk.",
+  "Tanggal_Pencatatan": "04 Apr 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 62,
+  "Kode": "ASJT",
+  "Nama_Perusahaan": "Asuransi Jasa Tania Tbk.",
+  "Tanggal_Pencatatan": "23 Des 2003",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 63,
+  "Kode": "ASLC",
+  "Nama_Perusahaan": "Autopedia Sukses Lestari Tbk.",
+  "Tanggal_Pencatatan": "25 Jan 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 64,
+  "Kode": "ASMI",
+  "Nama_Perusahaan": "Asuransi Maximus Graha Persada",
+  "Tanggal_Pencatatan": "16 Jan 2014",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 65,
+  "Kode": "ASPI",
+  "Nama_Perusahaan": "Andalan Sakti Primaindo Tbk.",
+  "Tanggal_Pencatatan": "17 Feb 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 66,
+  "Kode": "ASRI",
+  "Nama_Perusahaan": "Alam Sutera Realty Tbk.",
+  "Tanggal_Pencatatan": "18 Des 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 67,
+  "Kode": "ASRM",
+  "Nama_Perusahaan": "Asuransi Ramayana Tbk.",
+  "Tanggal_Pencatatan": "19 Mar 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 68,
+  "Kode": "ASSA",
+  "Nama_Perusahaan": "Adi Sarana Armada Tbk.",
+  "Tanggal_Pencatatan": "12 Nov 2012",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 69,
+  "Kode": "ATAP",
+  "Nama_Perusahaan": "Trimitra Prawara Goldland Tbk.",
+  "Tanggal_Pencatatan": "11 Des 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 70,
+  "Kode": "ATIC",
+  "Nama_Perusahaan": "Anabatic Technologies Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 71,
+  "Kode": "AUTO",
+  "Nama_Perusahaan": "Astra Otoparts Tbk.",
+  "Tanggal_Pencatatan": "15 Jun 1998",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 72,
+  "Kode": "AVIA",
+  "Nama_Perusahaan": "Avia Avian Tbk.",
+  "Tanggal_Pencatatan": "08 Des 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 73,
+  "Kode": "AWAN",
+  "Nama_Perusahaan": "Era Digital Media Tbk.",
+  "Tanggal_Pencatatan": "18 Apr 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 74,
+  "Kode": "AXIO",
+  "Nama_Perusahaan": "Tera Data Indonusa Tbk.",
+  "Tanggal_Pencatatan": "20 Jul 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 75,
+  "Kode": "AYAM",
+  "Nama_Perusahaan": "Janu Putra Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "30 Nov 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 76,
+  "Kode": "AYLS",
+  "Nama_Perusahaan": "Agro Yasa Lestari Tbk.",
+  "Tanggal_Pencatatan": "12 Feb 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 77,
+  "Kode": "BABP",
+  "Nama_Perusahaan": "Bank MNC Internasional Tbk.",
+  "Tanggal_Pencatatan": "15 Jul 2002",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 78,
+  "Kode": "BABY",
+  "Nama_Perusahaan": "Multitrend Indo Tbk.",
+  "Tanggal_Pencatatan": "07 Sep 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 79,
+  "Kode": "BACA",
+  "Nama_Perusahaan": "Bank Capital Indonesia Tbk.",
+  "Tanggal_Pencatatan": "04 Okt 2007",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 80,
+  "Kode": "BAJA",
+  "Nama_Perusahaan": "Saranacentral Bajatama Tbk.",
+  "Tanggal_Pencatatan": "21 Des 2011",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 81,
+  "Kode": "BALI",
+  "Nama_Perusahaan": "Bali Towerindo Sentra Tbk.",
+  "Tanggal_Pencatatan": "13 Mar 2014",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 82,
+  "Kode": "BANK",
+  "Nama_Perusahaan": "Bank Aladin Syariah Tbk.",
+  "Tanggal_Pencatatan": "01 Feb 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 83,
+  "Kode": "BAPA",
+  "Nama_Perusahaan": "Bekasi Asri Pemula Tbk.",
+  "Tanggal_Pencatatan": "14 Jan 2008",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 84,
+  "Kode": "BAPI",
+  "Nama_Perusahaan": "Bhakti Agung Propertindo Tbk.",
+  "Tanggal_Pencatatan": "16 Sep 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 85,
+  "Kode": "BATA",
+  "Nama_Perusahaan": "Sepatu Bata Tbk.",
+  "Tanggal_Pencatatan": "24 Mar 1982",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 86,
+  "Kode": "BAUT",
+  "Nama_Perusahaan": "Mitra Angkasa Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "28 Jan 2022",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 87,
+  "Kode": "BAYU",
+  "Nama_Perusahaan": "Bayu Buana Tbk",
+  "Tanggal_Pencatatan": "30 Okt 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 88,
+  "Kode": "BBCA",
+  "Nama_Perusahaan": "Bank Central Asia Tbk.",
+  "Tanggal_Pencatatan": "31 Mei 2000",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 89,
+  "Kode": "BBHI",
+  "Nama_Perusahaan": "Allo Bank Indonesia Tbk.",
+  "Tanggal_Pencatatan": "12 Agt 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 90,
+  "Kode": "BBKP",
+  "Nama_Perusahaan": "Bank KB Bukopin Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2006",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 91,
+  "Kode": "BBLD",
+  "Nama_Perusahaan": "Buana Finance Tbk.",
+  "Tanggal_Pencatatan": "07 Mei 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 92,
+  "Kode": "BBMD",
+  "Nama_Perusahaan": "Bank Mestika Dharma Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 93,
+  "Kode": "BBNI",
+  "Nama_Perusahaan": "Bank Negara Indonesia (Persero",
+  "Tanggal_Pencatatan": "25 Nov 1996",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 94,
+  "Kode": "BBRI",
+  "Nama_Perusahaan": "Bank Rakyat Indonesia (Persero",
+  "Tanggal_Pencatatan": "10 Nov 2003",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 95,
+  "Kode": "BBRM",
+  "Nama_Perusahaan": "Pelayaran Nasional Bina Buana ",
+  "Tanggal_Pencatatan": "09 Jan 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 96,
+  "Kode": "BBSI",
+  "Nama_Perusahaan": "Krom Bank Indonesia Tbk.",
+  "Tanggal_Pencatatan": "07 Sep 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 97,
+  "Kode": "BBSS",
+  "Nama_Perusahaan": "Bumi Benowo Sukses Sejahtera T",
+  "Tanggal_Pencatatan": "15 Apr 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 98,
+  "Kode": "BBTN",
+  "Nama_Perusahaan": "Bank Tabungan Negara (Persero)",
+  "Tanggal_Pencatatan": "17 Des 2009",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 99,
+  "Kode": "BBYB",
+  "Nama_Perusahaan": "Bank Neo Commerce Tbk.",
+  "Tanggal_Pencatatan": "13 Jan 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 100,
+  "Kode": "BCAP",
+  "Nama_Perusahaan": "MNC Kapital Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Jun 2001",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 101,
+  "Kode": "BCIC",
+  "Nama_Perusahaan": "Bank JTrust Indonesia Tbk.",
+  "Tanggal_Pencatatan": "25 Jun 1997",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 102,
+  "Kode": "BCIP",
+  "Nama_Perusahaan": "Bumi Citra Permai Tbk.",
+  "Tanggal_Pencatatan": "11 Des 2009",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 103,
+  "Kode": "BDKR",
+  "Nama_Perusahaan": "Berdikari Pondasi Perkasa Tbk.",
+  "Tanggal_Pencatatan": "03 Mar 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 104,
+  "Kode": "BDMN",
+  "Nama_Perusahaan": "Bank Danamon Indonesia Tbk.",
+  "Tanggal_Pencatatan": "06 Des 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 105,
+  "Kode": "BEBS",
+  "Nama_Perusahaan": "Berkah Beton Sadaya Tbk.",
+  "Tanggal_Pencatatan": "10 Mar 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 106,
+  "Kode": "BEEF",
+  "Nama_Perusahaan": "Estika Tata Tiara Tbk.",
+  "Tanggal_Pencatatan": "10 Jan 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 107,
+  "Kode": "BEER",
+  "Nama_Perusahaan": "Jobubu Jarum Minahasa Tbk.",
+  "Tanggal_Pencatatan": "06 Jan 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 108,
+  "Kode": "BEKS",
+  "Nama_Perusahaan": "Bank Pembangunan Daerah Banten",
+  "Tanggal_Pencatatan": "13 Jul 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 109,
+  "Kode": "BELI",
+  "Nama_Perusahaan": "Global Digital Niaga Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2022",
+  "Papan_Pencatatan": "Ekonomi Baru"
+ },
+ {
+  "No": 110,
+  "Kode": "BELL",
+  "Nama_Perusahaan": "Trisula Textile Industries Tbk",
+  "Tanggal_Pencatatan": "03 Okt 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 111,
+  "Kode": "BESS",
+  "Nama_Perusahaan": "Batulicin Nusantara Maritim Tb",
+  "Tanggal_Pencatatan": "09 Mar 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 112,
+  "Kode": "BEST",
+  "Nama_Perusahaan": "Bekasi Fajar Industrial Estate",
+  "Tanggal_Pencatatan": "10 Apr 2012",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 113,
+  "Kode": "BFIN",
+  "Nama_Perusahaan": "BFI Finance  Indonesia Tbk.",
+  "Tanggal_Pencatatan": "16 Mei 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 114,
+  "Kode": "BGTG",
+  "Nama_Perusahaan": "Bank Ganesha Tbk.",
+  "Tanggal_Pencatatan": "12 Mei 2016",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 115,
+  "Kode": "BHAT",
+  "Nama_Perusahaan": "Bhakti Multi Artha Tbk.",
+  "Tanggal_Pencatatan": "15 Apr 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 116,
+  "Kode": "BHIT",
+  "Nama_Perusahaan": "MNC Asia Holding Tbk.",
+  "Tanggal_Pencatatan": "24 Nov 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 117,
+  "Kode": "BIKA",
+  "Nama_Perusahaan": "Binakarya Jaya Abadi Tbk.",
+  "Tanggal_Pencatatan": "14 Jul 2015",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 118,
+  "Kode": "BIKE",
+  "Nama_Perusahaan": "Sepeda Bersama Indonesia Tbk.",
+  "Tanggal_Pencatatan": "21 Mar 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 119,
+  "Kode": "BIMA",
+  "Nama_Perusahaan": "Primarindo Asia Infrastructure",
+  "Tanggal_Pencatatan": "30 Agt 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 120,
+  "Kode": "BINA",
+  "Nama_Perusahaan": "Bank Ina Perdana Tbk.",
+  "Tanggal_Pencatatan": "16 Jan 2014",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 121,
+  "Kode": "BINO",
+  "Nama_Perusahaan": "Perma Plasindo Tbk.",
+  "Tanggal_Pencatatan": "25 Nov 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 122,
+  "Kode": "BIPI",
+  "Nama_Perusahaan": "Astrindo Nusantara Infrastrukt",
+  "Tanggal_Pencatatan": "11 Feb 2010",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 123,
+  "Kode": "BIPP",
+  "Nama_Perusahaan": "Bhuwanatala Indah Permai Tbk.",
+  "Tanggal_Pencatatan": "23 Okt 1995",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 124,
+  "Kode": "BIRD",
+  "Nama_Perusahaan": "Blue Bird Tbk.",
+  "Tanggal_Pencatatan": "05 Nov 2014",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 125,
+  "Kode": "BISI",
+  "Nama_Perusahaan": "BISI International Tbk.",
+  "Tanggal_Pencatatan": "28 Mei 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 126,
+  "Kode": "BJBR",
+  "Nama_Perusahaan": "Bank Pembangunan Daerah Jawa B",
+  "Tanggal_Pencatatan": "08 Jul 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 127,
+  "Kode": "BJTM",
+  "Nama_Perusahaan": "Bank Pembangunan Daerah Jawa T",
+  "Tanggal_Pencatatan": "12 Jul 2012",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 128,
+  "Kode": "BKDP",
+  "Nama_Perusahaan": "Bukit Darmo Property Tbk",
+  "Tanggal_Pencatatan": "15 Jun 2007",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 129,
+  "Kode": "BKSL",
+  "Nama_Perusahaan": "Sentul City Tbk.",
+  "Tanggal_Pencatatan": "28 Jul 1997",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 130,
+  "Kode": "BKSW",
+  "Nama_Perusahaan": "Bank QNB Indonesia Tbk.",
+  "Tanggal_Pencatatan": "21 Nov 2002",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 131,
+  "Kode": "BLTA",
+  "Nama_Perusahaan": "Berlian Laju Tanker Tbk",
+  "Tanggal_Pencatatan": "26 Mar 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 132,
+  "Kode": "BLTZ",
+  "Nama_Perusahaan": "Graha Layar Prima Tbk.",
+  "Tanggal_Pencatatan": "10 Apr 2014",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 133,
+  "Kode": "BLUE",
+  "Nama_Perusahaan": "Berkah Prima Perkasa Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 134,
+  "Kode": "BMAS",
+  "Nama_Perusahaan": "Bank Maspion Indonesia Tbk.",
+  "Tanggal_Pencatatan": "11 Jul 2013",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 135,
+  "Kode": "BMBL",
+  "Nama_Perusahaan": "Lavender Bina Cendikia Tbk.",
+  "Tanggal_Pencatatan": "11 Jan 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 136,
+  "Kode": "BMHS",
+  "Nama_Perusahaan": "Bundamedik Tbk.",
+  "Tanggal_Pencatatan": "06 Jul 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 137,
+  "Kode": "BMRI",
+  "Nama_Perusahaan": "Bank Mandiri (Persero) Tbk.",
+  "Tanggal_Pencatatan": "14 Jul 2003",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 138,
+  "Kode": "BMSR",
+  "Nama_Perusahaan": "Bintang Mitra Semestaraya Tbk",
+  "Tanggal_Pencatatan": "29 Des 1999",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 139,
+  "Kode": "BMTR",
+  "Nama_Perusahaan": "Global Mediacom Tbk.",
+  "Tanggal_Pencatatan": "17 Jul 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 140,
+  "Kode": "BNBA",
+  "Nama_Perusahaan": "Bank Bumi Arta Tbk.",
+  "Tanggal_Pencatatan": "01 Jun 2006",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 141,
+  "Kode": "BNBR",
+  "Nama_Perusahaan": "Bakrie & Brothers Tbk",
+  "Tanggal_Pencatatan": "28 Agt 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 142,
+  "Kode": "BNGA",
+  "Nama_Perusahaan": "Bank CIMB Niaga Tbk.",
+  "Tanggal_Pencatatan": "29 Nov 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 143,
+  "Kode": "BNII",
+  "Nama_Perusahaan": "Bank Maybank Indonesia Tbk.",
+  "Tanggal_Pencatatan": "21 Nov 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 144,
+  "Kode": "BNLI",
+  "Nama_Perusahaan": "Bank Permata Tbk.",
+  "Tanggal_Pencatatan": "15 Jan 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 145,
+  "Kode": "BOBA",
+  "Nama_Perusahaan": "Formosa Ingredient Factory Tbk",
+  "Tanggal_Pencatatan": "01 Nov 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 146,
+  "Kode": "BOGA",
+  "Nama_Perusahaan": "Bintang Oto Global Tbk.",
+  "Tanggal_Pencatatan": "19 Des 2016",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 147,
+  "Kode": "BOLA",
+  "Nama_Perusahaan": "Bali Bintang Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "17 Jun 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 148,
+  "Kode": "BOLT",
+  "Nama_Perusahaan": "Garuda Metalindo Tbk.",
+  "Tanggal_Pencatatan": "07 Jul 2015",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 149,
+  "Kode": "BOSS",
+  "Nama_Perusahaan": "Borneo Olah Sarana Sukses Tbk.",
+  "Tanggal_Pencatatan": "15 Feb 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 150,
+  "Kode": "BPFI",
+  "Nama_Perusahaan": "Woori Finance Indonesia Tbk.",
+  "Tanggal_Pencatatan": "01 Jun 2009",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 151,
+  "Kode": "BPII",
+  "Nama_Perusahaan": "Batavia Prosperindo Internasio",
+  "Tanggal_Pencatatan": "08 Jul 2014",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 152,
+  "Kode": "BPTR",
+  "Nama_Perusahaan": "Batavia Prosperindo Trans Tbk.",
+  "Tanggal_Pencatatan": "09 Jul 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 153,
+  "Kode": "BRAM",
+  "Nama_Perusahaan": "Indo Kordsa Tbk.",
+  "Tanggal_Pencatatan": "05 Sep 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 154,
+  "Kode": "BREN",
+  "Nama_Perusahaan": "Barito Renewables Energy Tbk.",
+  "Tanggal_Pencatatan": "09 Okt 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 155,
+  "Kode": "BRIS",
+  "Nama_Perusahaan": "Bank Syariah Indonesia Tbk.",
+  "Tanggal_Pencatatan": "09 Mei 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 156,
+  "Kode": "BRMS",
+  "Nama_Perusahaan": "Bumi Resources Minerals Tbk.",
+  "Tanggal_Pencatatan": "09 Des 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 157,
+  "Kode": "BRNA",
+  "Nama_Perusahaan": "Berlina Tbk.",
+  "Tanggal_Pencatatan": "06 Nov 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 158,
+  "Kode": "BRPT",
+  "Nama_Perusahaan": "Barito Pacific Tbk.",
+  "Tanggal_Pencatatan": "01 Okt 1993",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 159,
+  "Kode": "BSBK",
+  "Nama_Perusahaan": "Wulandari Bangun Laksana Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2022",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 160,
+  "Kode": "BSDE",
+  "Nama_Perusahaan": "Bumi Serpong Damai Tbk.",
+  "Tanggal_Pencatatan": "06 Jun 2008",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 161,
+  "Kode": "BSIM",
+  "Nama_Perusahaan": "Bank Sinarmas Tbk.",
+  "Tanggal_Pencatatan": "13 Des 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 162,
+  "Kode": "BSML",
+  "Nama_Perusahaan": "Bintang Samudera Mandiri Lines",
+  "Tanggal_Pencatatan": "16 Des 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 163,
+  "Kode": "BSSR",
+  "Nama_Perusahaan": "Baramulti Suksessarana Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2012",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 164,
+  "Kode": "BSWD",
+  "Nama_Perusahaan": "Bank Of India Indonesia Tbk.",
+  "Tanggal_Pencatatan": "01 Mei 2002",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 165,
+  "Kode": "BTEK",
+  "Nama_Perusahaan": "Bumi Teknokultura Unggul Tbk",
+  "Tanggal_Pencatatan": "14 Mei 2004",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 166,
+  "Kode": "BTEL",
+  "Nama_Perusahaan": "Bakrie Telecom Tbk.",
+  "Tanggal_Pencatatan": "03 Feb 2006",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 167,
+  "Kode": "BTON",
+  "Nama_Perusahaan": "Betonjaya Manunggal Tbk.",
+  "Tanggal_Pencatatan": "18 Jul 2001",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 168,
+  "Kode": "BTPN",
+  "Nama_Perusahaan": "Bank BTPN Tbk.",
+  "Tanggal_Pencatatan": "12 Mar 2008",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 169,
+  "Kode": "BTPS",
+  "Nama_Perusahaan": "Bank BTPN Syariah Tbk.",
+  "Tanggal_Pencatatan": "08 Mei 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 170,
+  "Kode": "BUAH",
+  "Nama_Perusahaan": "Segar Kumala Indonesia Tbk.",
+  "Tanggal_Pencatatan": "09 Agt 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 171,
+  "Kode": "BUDI",
+  "Nama_Perusahaan": "Budi Starch & Sweetener Tbk.",
+  "Tanggal_Pencatatan": "08 Mei 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 172,
+  "Kode": "BUKA",
+  "Nama_Perusahaan": "Bukalapak.com Tbk.",
+  "Tanggal_Pencatatan": "06 Agt 2021",
+  "Papan_Pencatatan": "Ekonomi Baru"
+ },
+ {
+  "No": 173,
+  "Kode": "BUKK",
+  "Nama_Perusahaan": "Bukaka Teknik Utama Tbk.",
+  "Tanggal_Pencatatan": "29 Jun 2015",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 174,
+  "Kode": "BULL",
+  "Nama_Perusahaan": "Buana Lintas Lautan Tbk.",
+  "Tanggal_Pencatatan": "23 Mei 2011",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 175,
+  "Kode": "BUMI",
+  "Nama_Perusahaan": "Bumi Resources Tbk.",
+  "Tanggal_Pencatatan": "30 Jul 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 176,
+  "Kode": "BUVA",
+  "Nama_Perusahaan": "Bukit Uluwatu Villa Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2010",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 177,
+  "Kode": "BVIC",
+  "Nama_Perusahaan": "Bank Victoria International Tb",
+  "Tanggal_Pencatatan": "30 Jun 1999",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 178,
+  "Kode": "BWPT",
+  "Nama_Perusahaan": "Eagle High Plantations Tbk.",
+  "Tanggal_Pencatatan": "27 Okt 2009",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 179,
+  "Kode": "BYAN",
+  "Nama_Perusahaan": "Bayan Resources Tbk.",
+  "Tanggal_Pencatatan": "12 Agt 2008",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 180,
+  "Kode": "CAKK",
+  "Nama_Perusahaan": "Cahayaputra Asa Keramik Tbk.",
+  "Tanggal_Pencatatan": "31 Okt 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 181,
+  "Kode": "CAMP",
+  "Nama_Perusahaan": "Campina Ice Cream Industry Tbk",
+  "Tanggal_Pencatatan": "19 Des 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 182,
+  "Kode": "CANI",
+  "Nama_Perusahaan": "Capitol Nusantara Indonesia Tb",
+  "Tanggal_Pencatatan": "16 Jan 2014",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 183,
+  "Kode": "CARE",
+  "Nama_Perusahaan": "Metro Healthcare Indonesia Tbk",
+  "Tanggal_Pencatatan": "13 Mar 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 184,
+  "Kode": "CARS",
+  "Nama_Perusahaan": "Industri dan Perdagangan Bintr",
+  "Tanggal_Pencatatan": "10 Apr 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 185,
+  "Kode": "CASA",
+  "Nama_Perusahaan": "Capital Financial Indonesia Tb",
+  "Tanggal_Pencatatan": "19 Jul 2016",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 186,
+  "Kode": "CASH",
+  "Nama_Perusahaan": "Cashlez Worldwide Indonesia Tb",
+  "Tanggal_Pencatatan": "04 Mei 2020",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 187,
+  "Kode": "CASS",
+  "Nama_Perusahaan": "Cardig Aero Services Tbk.",
+  "Tanggal_Pencatatan": "05 Des 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 188,
+  "Kode": "CBMF",
+  "Nama_Perusahaan": "Cahaya Bintang Medan Tbk.",
+  "Tanggal_Pencatatan": "09 Apr 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 189,
+  "Kode": "CBPE",
+  "Nama_Perusahaan": "Citra Buana Prasida Tbk.",
+  "Tanggal_Pencatatan": "06 Jan 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 190,
+  "Kode": "CBRE",
+  "Nama_Perusahaan": "Cakra Buana Resources Energi T",
+  "Tanggal_Pencatatan": "09 Jan 2023",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 191,
+  "Kode": "CBUT",
+  "Nama_Perusahaan": "Citra Borneo Utama Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 192,
+  "Kode": "CCSI",
+  "Nama_Perusahaan": "Communication Cable Systems In",
+  "Tanggal_Pencatatan": "18 Jun 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 193,
+  "Kode": "CEKA",
+  "Nama_Perusahaan": "Wilmar Cahaya Indonesia Tbk.",
+  "Tanggal_Pencatatan": "09 Jul 1996",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 194,
+  "Kode": "CENT",
+  "Nama_Perusahaan": "Centratama Telekomunikasi Indo",
+  "Tanggal_Pencatatan": "01 Nov 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 195,
+  "Kode": "CFIN",
+  "Nama_Perusahaan": "Clipan Finance Indonesia Tbk.",
+  "Tanggal_Pencatatan": "27 Agt 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 196,
+  "Kode": "CHEM",
+  "Nama_Perusahaan": "Chemstar Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 197,
+  "Kode": "CHIP",
+  "Nama_Perusahaan": "Pelita Teknologi Global Tbk.",
+  "Tanggal_Pencatatan": "08 Feb 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 198,
+  "Kode": "CINT",
+  "Nama_Perusahaan": "Chitose Internasional Tbk.",
+  "Tanggal_Pencatatan": "27 Jun 2014",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 199,
+  "Kode": "CITA",
+  "Nama_Perusahaan": "Cita Mineral Investindo Tbk.",
+  "Tanggal_Pencatatan": "20 Mar 2002",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 200,
+  "Kode": "CITY",
+  "Nama_Perusahaan": "Natura City Developments Tbk.",
+  "Tanggal_Pencatatan": "28 Sep 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 201,
+  "Kode": "CLAY",
+  "Nama_Perusahaan": "Citra Putra Realty Tbk.",
+  "Tanggal_Pencatatan": "18 Jan 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 202,
+  "Kode": "CLEO",
+  "Nama_Perusahaan": "Sariguna Primatirta Tbk.",
+  "Tanggal_Pencatatan": "05 Mei 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 203,
+  "Kode": "CLPI",
+  "Nama_Perusahaan": "Colorpak Indonesia Tbk.",
+  "Tanggal_Pencatatan": "30 Nov 2001",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 204,
+  "Kode": "CMNP",
+  "Nama_Perusahaan": "Citra Marga Nusaphala Persada ",
+  "Tanggal_Pencatatan": "10 Jan 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 205,
+  "Kode": "CMNT",
+  "Nama_Perusahaan": "Cemindo Gemilang Tbk.",
+  "Tanggal_Pencatatan": "08 Sep 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 206,
+  "Kode": "CMPP",
+  "Nama_Perusahaan": "AirAsia Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Des 1994",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 207,
+  "Kode": "CMRY",
+  "Nama_Perusahaan": "Cisarua Mountain Dairy Tbk.",
+  "Tanggal_Pencatatan": "06 Des 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 208,
+  "Kode": "CNKO",
+  "Nama_Perusahaan": "Exploitasi Energi Indonesia Tb",
+  "Tanggal_Pencatatan": "20 Nov 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 209,
+  "Kode": "CNMA",
+  "Nama_Perusahaan": "Nusantara Sejahtera Raya Tbk.",
+  "Tanggal_Pencatatan": "02 Agt 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 210,
+  "Kode": "CNTX",
+  "Nama_Perusahaan": "Century Textile Industry Tbk.",
+  "Tanggal_Pencatatan": "22 Mei 1979",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 211,
+  "Kode": "COAL",
+  "Nama_Perusahaan": "Black Diamond Resources Tbk.",
+  "Tanggal_Pencatatan": "07 Sep 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 212,
+  "Kode": "COCO",
+  "Nama_Perusahaan": "Wahana Interfood Nusantara Tbk",
+  "Tanggal_Pencatatan": "20 Mar 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 213,
+  "Kode": "COWL",
+  "Nama_Perusahaan": "Cowell Development Tbk.",
+  "Tanggal_Pencatatan": "19 Des 2007",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 214,
+  "Kode": "CPIN",
+  "Nama_Perusahaan": "Charoen Pokphand Indonesia Tbk",
+  "Tanggal_Pencatatan": "18 Mar 1991",
+  "Papan_Pencatatan": "UTAMA"
+ },
+ {
+  "No": 215,
+  "Kode": "CPRI",
+  "Nama_Perusahaan": "Capri Nusa Satu Properti Tbk.",
+  "Tanggal_Pencatatan": "11 Apr 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 216,
+  "Kode": "CPRO",
+  "Nama_Perusahaan": "Central Proteina Prima Tbk.",
+  "Tanggal_Pencatatan": "28 Nov 2006",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 217,
+  "Kode": "CRAB",
+  "Nama_Perusahaan": "Toba Surimi Industries Tbk.",
+  "Tanggal_Pencatatan": "10 Agt 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 218,
+  "Kode": "CRSN",
+  "Nama_Perusahaan": "Carsurin Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 219,
+  "Kode": "CSAP",
+  "Nama_Perusahaan": "Catur Sentosa Adiprana Tbk.",
+  "Tanggal_Pencatatan": "12 Des 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 220,
+  "Kode": "CSIS",
+  "Nama_Perusahaan": "Cahayasakti Investindo Sukses ",
+  "Tanggal_Pencatatan": "10 Mei 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 221,
+  "Kode": "CSMI",
+  "Nama_Perusahaan": "Cipta Selera Murni Tbk.",
+  "Tanggal_Pencatatan": "09 Apr 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 222,
+  "Kode": "CSRA",
+  "Nama_Perusahaan": "Cisadane Sawit Raya Tbk.",
+  "Tanggal_Pencatatan": "09 Jan 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 223,
+  "Kode": "CTBN",
+  "Nama_Perusahaan": "Citra Tubindo Tbk.",
+  "Tanggal_Pencatatan": "28 Nov 1989",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 224,
+  "Kode": "CTRA",
+  "Nama_Perusahaan": "Ciputra Development Tbk.",
+  "Tanggal_Pencatatan": "28 Mar 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 225,
+  "Kode": "CTTH",
+  "Nama_Perusahaan": "Citatah Tbk.",
+  "Tanggal_Pencatatan": "03 Jul 1996",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 226,
+  "Kode": "CUAN",
+  "Nama_Perusahaan": "Petrindo Jaya Kreasi Tbk.",
+  "Tanggal_Pencatatan": "08 Mar 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 227,
+  "Kode": "CYBR",
+  "Nama_Perusahaan": "ITSEC Asia Tbk.",
+  "Tanggal_Pencatatan": "08 Agt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 228,
+  "Kode": "DADA",
+  "Nama_Perusahaan": "Diamond Citra Propertindo Tbk.",
+  "Tanggal_Pencatatan": "14 Feb 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 229,
+  "Kode": "DART",
+  "Nama_Perusahaan": "Duta Anggada Realty Tbk.",
+  "Tanggal_Pencatatan": "08 Mei 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 230,
+  "Kode": "DAYA",
+  "Nama_Perusahaan": "Duta Intidaya Tbk.",
+  "Tanggal_Pencatatan": "28 Jun 2016",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 231,
+  "Kode": "DCII",
+  "Nama_Perusahaan": "DCI Indonesia Tbk.",
+  "Tanggal_Pencatatan": "06 Jan 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 232,
+  "Kode": "DEAL",
+  "Nama_Perusahaan": "Dewata Freightinternational Tb",
+  "Tanggal_Pencatatan": "11 Nov 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 233,
+  "Kode": "DEFI",
+  "Nama_Perusahaan": "Danasupra Erapacific Tbk.",
+  "Tanggal_Pencatatan": "06 Jul 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 234,
+  "Kode": "DEPO",
+  "Nama_Perusahaan": "Caturkarda Depo Bangunan Tbk.",
+  "Tanggal_Pencatatan": "25 Nov 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 235,
+  "Kode": "DEWA",
+  "Nama_Perusahaan": "Darma Henwa Tbk",
+  "Tanggal_Pencatatan": "26 Sep 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 236,
+  "Kode": "DEWI",
+  "Nama_Perusahaan": "Dewi Shri Farmindo Tbk.",
+  "Tanggal_Pencatatan": "18 Jul 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 237,
+  "Kode": "DFAM",
+  "Nama_Perusahaan": "Dafam Property Indonesia Tbk.",
+  "Tanggal_Pencatatan": "27 Apr 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 238,
+  "Kode": "DGIK",
+  "Nama_Perusahaan": "Nusa Konstruksi Enjiniring Tbk",
+  "Tanggal_Pencatatan": "19 Des 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 239,
+  "Kode": "DGNS",
+  "Nama_Perusahaan": "Diagnos Laboratorium Utama Tbk",
+  "Tanggal_Pencatatan": "15 Jan 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 240,
+  "Kode": "DIGI",
+  "Nama_Perusahaan": "Arkadia Digital Media Tbk.",
+  "Tanggal_Pencatatan": "18 Sep 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 241,
+  "Kode": "DILD",
+  "Nama_Perusahaan": "Intiland Development Tbk.",
+  "Tanggal_Pencatatan": "04 Sep 1991",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 242,
+  "Kode": "DIVA",
+  "Nama_Perusahaan": "Distribusi Voucher Nusantara T",
+  "Tanggal_Pencatatan": "27 Nov 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 243,
+  "Kode": "DKFT",
+  "Nama_Perusahaan": "Central Omega Resources Tbk.",
+  "Tanggal_Pencatatan": "21 Nov 1997",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 244,
+  "Kode": "DLTA",
+  "Nama_Perusahaan": "Delta Djakarta Tbk.",
+  "Tanggal_Pencatatan": "27 Feb 1984",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 245,
+  "Kode": "DMAS",
+  "Nama_Perusahaan": "Puradelta Lestari Tbk.",
+  "Tanggal_Pencatatan": "29 Mei 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 246,
+  "Kode": "DMMX",
+  "Nama_Perusahaan": "Digital Mediatama Maxima Tbk.",
+  "Tanggal_Pencatatan": "21 Okt 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 247,
+  "Kode": "DMND",
+  "Nama_Perusahaan": "Diamond Food Indonesia Tbk.",
+  "Tanggal_Pencatatan": "22 Jan 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 248,
+  "Kode": "DNAR",
+  "Nama_Perusahaan": "Bank Oke Indonesia Tbk.",
+  "Tanggal_Pencatatan": "11 Jul 2014",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 249,
+  "Kode": "DNET",
+  "Nama_Perusahaan": "Indoritel Makmur Internasional",
+  "Tanggal_Pencatatan": "11 Des 2000",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 250,
+  "Kode": "DOID",
+  "Nama_Perusahaan": "Delta Dunia Makmur Tbk.",
+  "Tanggal_Pencatatan": "15 Jun 2001",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 251,
+  "Kode": "DOOH",
+  "Nama_Perusahaan": "Era Media Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "08 Mei 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 252,
+  "Kode": "DPNS",
+  "Nama_Perusahaan": "Duta Pertiwi Nusantara Tbk.",
+  "Tanggal_Pencatatan": "08 Agt 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 253,
+  "Kode": "DPUM",
+  "Nama_Perusahaan": "Dua Putra Utama Makmur Tbk.",
+  "Tanggal_Pencatatan": "08 Des 2015",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 254,
+  "Kode": "DRMA",
+  "Nama_Perusahaan": "Dharma Polimetal Tbk.",
+  "Tanggal_Pencatatan": "20 Des 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 255,
+  "Kode": "DSFI",
+  "Nama_Perusahaan": "Dharma Samudera Fishing Indust",
+  "Tanggal_Pencatatan": "24 Mar 2000",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 256,
+  "Kode": "DSNG",
+  "Nama_Perusahaan": "Dharma Satya Nusantara Tbk.",
+  "Tanggal_Pencatatan": "14 Jun 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 257,
+  "Kode": "DSSA",
+  "Nama_Perusahaan": "Dian Swastatika Sentosa Tbk",
+  "Tanggal_Pencatatan": "10 Des 2009",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 258,
+  "Kode": "DUCK",
+  "Nama_Perusahaan": "Jaya Bersama Indo Tbk.",
+  "Tanggal_Pencatatan": "10 Okt 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 259,
+  "Kode": "DUTI",
+  "Nama_Perusahaan": "Duta Pertiwi Tbk",
+  "Tanggal_Pencatatan": "02 Nov 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 260,
+  "Kode": "DVLA",
+  "Nama_Perusahaan": "Darya-Varia Laboratoria Tbk.",
+  "Tanggal_Pencatatan": "11 Nov 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 261,
+  "Kode": "DWGL",
+  "Nama_Perusahaan": "Dwi Guna Laksana Tbk.",
+  "Tanggal_Pencatatan": "13 Des 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 262,
+  "Kode": "DYAN",
+  "Nama_Perusahaan": "Dyandra Media International Tb",
+  "Tanggal_Pencatatan": "25 Mar 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 263,
+  "Kode": "EAST",
+  "Nama_Perusahaan": "Eastparc Hotel Tbk.",
+  "Tanggal_Pencatatan": "09 Jul 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 264,
+  "Kode": "ECII",
+  "Nama_Perusahaan": "Electronic City Indonesia Tbk.",
+  "Tanggal_Pencatatan": "03 Jul 2013",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 265,
+  "Kode": "EDGE",
+  "Nama_Perusahaan": "Indointernet Tbk.",
+  "Tanggal_Pencatatan": "08 Feb 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 266,
+  "Kode": "EKAD",
+  "Nama_Perusahaan": "Ekadharma International Tbk.",
+  "Tanggal_Pencatatan": "14 Agt 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 267,
+  "Kode": "ELIT",
+  "Nama_Perusahaan": "Data Sinergitama Jaya Tbk.",
+  "Tanggal_Pencatatan": "06 Jan 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 268,
+  "Kode": "ELPI",
+  "Nama_Perusahaan": "Pelayaran Nasional Ekalya Purn",
+  "Tanggal_Pencatatan": "08 Agt 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 269,
+  "Kode": "ELSA",
+  "Nama_Perusahaan": "Elnusa Tbk.",
+  "Tanggal_Pencatatan": "06 Feb 2008",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 270,
+  "Kode": "ELTY",
+  "Nama_Perusahaan": "Bakrieland Development Tbk.",
+  "Tanggal_Pencatatan": "30 Okt 1995",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 271,
+  "Kode": "EMDE",
+  "Nama_Perusahaan": "Megapolitan Developments Tbk.",
+  "Tanggal_Pencatatan": "12 Jan 2011",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 272,
+  "Kode": "EMTK",
+  "Nama_Perusahaan": "Elang Mahkota Teknologi Tbk.",
+  "Tanggal_Pencatatan": "12 Jan 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 273,
+  "Kode": "ENAK",
+  "Nama_Perusahaan": "Champ Resto Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Feb 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 274,
+  "Kode": "ENRG",
+  "Nama_Perusahaan": "Energi Mega Persada Tbk.",
+  "Tanggal_Pencatatan": "07 Jun 2004",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 275,
+  "Kode": "ENVY",
+  "Nama_Perusahaan": "Envy Technologies Indonesia Tb",
+  "Tanggal_Pencatatan": "08 Jul 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 276,
+  "Kode": "ENZO",
+  "Nama_Perusahaan": "Morenzo Abadi Perkasa Tbk.",
+  "Tanggal_Pencatatan": "14 Sep 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 277,
+  "Kode": "EPAC",
+  "Nama_Perusahaan": "Megalestari Epack Sentosaraya ",
+  "Tanggal_Pencatatan": "01 Jul 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 278,
+  "Kode": "EPMT",
+  "Nama_Perusahaan": "Enseval Putera Megatrading Tbk",
+  "Tanggal_Pencatatan": "01 Agt 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 279,
+  "Kode": "ERAA",
+  "Nama_Perusahaan": "Erajaya Swasembada Tbk.",
+  "Tanggal_Pencatatan": "14 Des 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 280,
+  "Kode": "ERAL",
+  "Nama_Perusahaan": "Sinar Eka Selaras Tbk.",
+  "Tanggal_Pencatatan": "08 Agt 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 281,
+  "Kode": "ERTX",
+  "Nama_Perusahaan": "Eratex Djaja Tbk.",
+  "Tanggal_Pencatatan": "21 Agt 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 282,
+  "Kode": "ESIP",
+  "Nama_Perusahaan": "Sinergi Inti Plastindo Tbk.",
+  "Tanggal_Pencatatan": "14 Nov 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 283,
+  "Kode": "ESSA",
+  "Nama_Perusahaan": "ESSA Industries Indonesia Tbk.",
+  "Tanggal_Pencatatan": "01 Feb 2012",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 284,
+  "Kode": "ESTA",
+  "Nama_Perusahaan": "Esta Multi Usaha Tbk.",
+  "Tanggal_Pencatatan": "09 Mar 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 285,
+  "Kode": "ESTI",
+  "Nama_Perusahaan": "Ever Shine Tex Tbk.",
+  "Tanggal_Pencatatan": "13 Okt 1992",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 286,
+  "Kode": "ETWA",
+  "Nama_Perusahaan": "Eterindo Wahanatama Tbk",
+  "Tanggal_Pencatatan": "16 Mei 1997",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 287,
+  "Kode": "EURO",
+  "Nama_Perusahaan": "Estee Gold Feet Tbk.",
+  "Tanggal_Pencatatan": "08 Agt 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 288,
+  "Kode": "EXCL",
+  "Nama_Perusahaan": "XL Axiata Tbk.",
+  "Tanggal_Pencatatan": "29 Sep 2005",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 289,
+  "Kode": "FAPA",
+  "Nama_Perusahaan": "FAP Agri Tbk.",
+  "Tanggal_Pencatatan": "04 Jan 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 290,
+  "Kode": "FAST",
+  "Nama_Perusahaan": "Fast Food Indonesia Tbk.",
+  "Tanggal_Pencatatan": "11 Mei 1993",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 291,
+  "Kode": "FASW",
+  "Nama_Perusahaan": "Fajar Surya Wisesa Tbk.",
+  "Tanggal_Pencatatan": "19 Des 1994",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 292,
+  "Kode": "FILM",
+  "Nama_Perusahaan": "MD Pictures Tbk.",
+  "Tanggal_Pencatatan": "07 Agt 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 293,
+  "Kode": "FIMP",
+  "Nama_Perusahaan": "Fimperkasa Utama Tbk.",
+  "Tanggal_Pencatatan": "09 Apr 2021",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 294,
+  "Kode": "FIRE",
+  "Nama_Perusahaan": "Alfa Energi Investama Tbk.",
+  "Tanggal_Pencatatan": "09 Jun 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 295,
+  "Kode": "FISH",
+  "Nama_Perusahaan": "FKS Multi Agro Tbk.",
+  "Tanggal_Pencatatan": "18 Jan 2002",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 296,
+  "Kode": "FITT",
+  "Nama_Perusahaan": "Hotel Fitra International Tbk.",
+  "Tanggal_Pencatatan": "11 Jun 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 297,
+  "Kode": "FLMC",
+  "Nama_Perusahaan": "Falmaco Nonwoven Industri Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2021",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 298,
+  "Kode": "FMII",
+  "Nama_Perusahaan": "Fortune Mate Indonesia Tbk",
+  "Tanggal_Pencatatan": "30 Jun 2000",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 299,
+  "Kode": "FOLK",
+  "Nama_Perusahaan": "Multi Garam Utama Tbk.",
+  "Tanggal_Pencatatan": "07 Agt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 300,
+  "Kode": "FOOD",
+  "Nama_Perusahaan": "Sentra Food Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Jan 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 301,
+  "Kode": "FORU",
+  "Nama_Perusahaan": "Fortune Indonesia Tbk",
+  "Tanggal_Pencatatan": "17 Jan 2002",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 302,
+  "Kode": "FORZ",
+  "Nama_Perusahaan": "Forza Land Indonesia Tbk.",
+  "Tanggal_Pencatatan": "28 Apr 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 303,
+  "Kode": "FPNI",
+  "Nama_Perusahaan": "Lotte Chemical Titan Tbk.",
+  "Tanggal_Pencatatan": "21 Mar 2002",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 304,
+  "Kode": "FREN",
+  "Nama_Perusahaan": "Smartfren Telecom Tbk.",
+  "Tanggal_Pencatatan": "29 Nov 2006",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 305,
+  "Kode": "FUJI",
+  "Nama_Perusahaan": "Fuji Finance Indonesia Tbk.",
+  "Tanggal_Pencatatan": "09 Jul 2019",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 306,
+  "Kode": "FUTR",
+  "Nama_Perusahaan": "Lini Imaji Kreasi Ekosistem Tb",
+  "Tanggal_Pencatatan": "27 Feb 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 307,
+  "Kode": "FWCT",
+  "Nama_Perusahaan": "Wijaya Cahaya Timber Tbk.",
+  "Tanggal_Pencatatan": "01 Feb 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 308,
+  "Kode": "GAMA",
+  "Nama_Perusahaan": "Aksara Global Development Tbk.",
+  "Tanggal_Pencatatan": "11 Jul 2012",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 309,
+  "Kode": "GDST",
+  "Nama_Perusahaan": "Gunawan Dianjaya Steel Tbk.",
+  "Tanggal_Pencatatan": "23 Des 2009",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 310,
+  "Kode": "GDYR",
+  "Nama_Perusahaan": "Goodyear Indonesia Tbk.",
+  "Tanggal_Pencatatan": "22 Des 1980",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 311,
+  "Kode": "GEMA",
+  "Nama_Perusahaan": "Gema Grahasarana Tbk.",
+  "Tanggal_Pencatatan": "12 Agt 2002",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 312,
+  "Kode": "GEMS",
+  "Nama_Perusahaan": "Golden Energy Mines Tbk.",
+  "Tanggal_Pencatatan": "17 Nov 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 313,
+  "Kode": "GGRM",
+  "Nama_Perusahaan": "Gudang Garam Tbk.",
+  "Tanggal_Pencatatan": "27 Agt 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 314,
+  "Kode": "GGRP",
+  "Nama_Perusahaan": "Gunung Raja Paksi Tbk.",
+  "Tanggal_Pencatatan": "19 Sep 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 315,
+  "Kode": "GHON",
+  "Nama_Perusahaan": "Gihon Telekomunikasi Indonesia",
+  "Tanggal_Pencatatan": "09 Apr 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 316,
+  "Kode": "GIAA",
+  "Nama_Perusahaan": "Garuda Indonesia (Persero) Tbk",
+  "Tanggal_Pencatatan": "11 Feb 2011",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 317,
+  "Kode": "GJTL",
+  "Nama_Perusahaan": "Gajah Tunggal Tbk.",
+  "Tanggal_Pencatatan": "08 Mei 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 318,
+  "Kode": "GLOB",
+  "Nama_Perusahaan": "Globe Kita Terang Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2012",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 319,
+  "Kode": "GLVA",
+  "Nama_Perusahaan": "Galva Technologies Tbk.",
+  "Tanggal_Pencatatan": "23 Des 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 320,
+  "Kode": "GMFI",
+  "Nama_Perusahaan": "Garuda Maintenance Facility Ae",
+  "Tanggal_Pencatatan": "10 Okt 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 321,
+  "Kode": "GMTD",
+  "Nama_Perusahaan": "Gowa Makassar Tourism Developm",
+  "Tanggal_Pencatatan": "11 Des 2000",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 322,
+  "Kode": "GOLD",
+  "Nama_Perusahaan": "Visi Telekomunikasi Infrastruk",
+  "Tanggal_Pencatatan": "07 Jul 2010",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 323,
+  "Kode": "GOLL",
+  "Nama_Perusahaan": "Golden Plantation Tbk.",
+  "Tanggal_Pencatatan": "23 Des 2014",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 324,
+  "Kode": "GOOD",
+  "Nama_Perusahaan": "Garudafood Putra Putri Jaya Tb",
+  "Tanggal_Pencatatan": "10 Okt 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 325,
+  "Kode": "GOTO",
+  "Nama_Perusahaan": "GoTo Gojek Tokopedia Tbk.",
+  "Tanggal_Pencatatan": "11 Apr 2022",
+  "Papan_Pencatatan": "Ekonomi Baru"
+ },
+ {
+  "No": 326,
+  "Kode": "GPRA",
+  "Nama_Perusahaan": "Perdana Gapuraprima Tbk.",
+  "Tanggal_Pencatatan": "10 Okt 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 327,
+  "Kode": "GPSO",
+  "Nama_Perusahaan": "Geoprima Solusi Tbk.",
+  "Tanggal_Pencatatan": "06 Sep 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 328,
+  "Kode": "GRIA",
+  "Nama_Perusahaan": "Ingria Pratama Capitalindo Tbk",
+  "Tanggal_Pencatatan": "08 Agt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 329,
+  "Kode": "GRPM",
+  "Nama_Perusahaan": "Graha Prima Mentari Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 330,
+  "Kode": "GSMF",
+  "Nama_Perusahaan": "Equity Development Investment ",
+  "Tanggal_Pencatatan": "23 Okt 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 331,
+  "Kode": "GTBO",
+  "Nama_Perusahaan": "Garda Tujuh Buana Tbk",
+  "Tanggal_Pencatatan": "09 Jul 2009",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 332,
+  "Kode": "GTRA",
+  "Nama_Perusahaan": "Grahaprima Suksesmandiri Tbk.",
+  "Tanggal_Pencatatan": "30 Mar 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 333,
+  "Kode": "GTSI",
+  "Nama_Perusahaan": "GTS Internasional Tbk.",
+  "Tanggal_Pencatatan": "08 Sep 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 334,
+  "Kode": "GULA",
+  "Nama_Perusahaan": "Aman Agrindo Tbk.",
+  "Tanggal_Pencatatan": "03 Agt 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 335,
+  "Kode": "GWSA",
+  "Nama_Perusahaan": "Greenwood Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "23 Des 2011",
+  "Papan_Pencatatan": "UTAMA"
+ },
+ {
+  "No": 336,
+  "Kode": "GZCO",
+  "Nama_Perusahaan": "Gozco Plantations Tbk.",
+  "Tanggal_Pencatatan": "15 Mei 2008",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 337,
+  "Kode": "HADE",
+  "Nama_Perusahaan": "Himalaya Energi Perkasa Tbk.",
+  "Tanggal_Pencatatan": "12 Apr 2004",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 338,
+  "Kode": "HAIS",
+  "Nama_Perusahaan": "Hasnur Internasional Shipping ",
+  "Tanggal_Pencatatan": "01 Sep 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 339,
+  "Kode": "HAJJ",
+  "Nama_Perusahaan": "Arsy Buana Travelindo Tbk.",
+  "Tanggal_Pencatatan": "05 Apr 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 340,
+  "Kode": "HALO",
+  "Nama_Perusahaan": "Haloni Jane Tbk.",
+  "Tanggal_Pencatatan": "08 Feb 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 341,
+  "Kode": "HATM",
+  "Nama_Perusahaan": "Habco Trans Maritima Tbk.",
+  "Tanggal_Pencatatan": "26 Jul 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 342,
+  "Kode": "HBAT",
+  "Nama_Perusahaan": "Minahasa Membangun Hebat Tbk.",
+  "Tanggal_Pencatatan": "07 Agt 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 343,
+  "Kode": "HDFA",
+  "Nama_Perusahaan": "Radana Bhaskara Finance Tbk.",
+  "Tanggal_Pencatatan": "10 Mei 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 344,
+  "Kode": "HDIT",
+  "Nama_Perusahaan": "Hensel Davest Indonesia Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 345,
+  "Kode": "HDTX",
+  "Nama_Perusahaan": "Panasia Indo Resources Tbk.",
+  "Tanggal_Pencatatan": "06 Jun 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 346,
+  "Kode": "HEAL",
+  "Nama_Perusahaan": "Medikaloka Hermina Tbk.",
+  "Tanggal_Pencatatan": "16 Mei 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 347,
+  "Kode": "HELI",
+  "Nama_Perusahaan": "Jaya Trishindo Tbk.",
+  "Tanggal_Pencatatan": "27 Mar 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 348,
+  "Kode": "HERO",
+  "Nama_Perusahaan": "Hero Supermarket Tbk.",
+  "Tanggal_Pencatatan": "21 Agt 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 349,
+  "Kode": "HEXA",
+  "Nama_Perusahaan": "Hexindo Adiperkasa Tbk.",
+  "Tanggal_Pencatatan": "13 Feb 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 350,
+  "Kode": "HILL",
+  "Nama_Perusahaan": "Hillcon Tbk.",
+  "Tanggal_Pencatatan": "01 Mar 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 351,
+  "Kode": "HITS",
+  "Nama_Perusahaan": "Humpuss Intermoda Transportasi",
+  "Tanggal_Pencatatan": "15 Des 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 352,
+  "Kode": "HKMU",
+  "Nama_Perusahaan": "HK Metals Utama Tbk.",
+  "Tanggal_Pencatatan": "09 Okt 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 353,
+  "Kode": "HMSP",
+  "Nama_Perusahaan": "H.M. Sampoerna Tbk.",
+  "Tanggal_Pencatatan": "15 Agt 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 354,
+  "Kode": "HOKI",
+  "Nama_Perusahaan": "Buyung Poetra Sembada Tbk.",
+  "Tanggal_Pencatatan": "22 Jun 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 355,
+  "Kode": "HOME",
+  "Nama_Perusahaan": "Hotel Mandarine Regency Tbk.",
+  "Tanggal_Pencatatan": "17 Jul 2008",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 356,
+  "Kode": "HOMI",
+  "Nama_Perusahaan": "Grand House Mulia Tbk.",
+  "Tanggal_Pencatatan": "10 Sep 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 357,
+  "Kode": "HOPE",
+  "Nama_Perusahaan": "Harapan Duta Pertiwi Tbk.",
+  "Tanggal_Pencatatan": "24 Mei 2021",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 358,
+  "Kode": "HOTL",
+  "Nama_Perusahaan": "Saraswati Griya Lestari Tbk.",
+  "Tanggal_Pencatatan": "10 Jan 2013",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 359,
+  "Kode": "HRME",
+  "Nama_Perusahaan": "Menteng Heritage Realty Tbk.",
+  "Tanggal_Pencatatan": "12 Apr 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 360,
+  "Kode": "HRTA",
+  "Nama_Perusahaan": "Hartadinata Abadi Tbk.",
+  "Tanggal_Pencatatan": "21 Jun 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 361,
+  "Kode": "HRUM",
+  "Nama_Perusahaan": "Harum Energy Tbk.",
+  "Tanggal_Pencatatan": "06 Okt 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 362,
+  "Kode": "HUMI",
+  "Nama_Perusahaan": "Humpuss Maritim Internasional ",
+  "Tanggal_Pencatatan": "09 Agt 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 363,
+  "Kode": "IATA",
+  "Nama_Perusahaan": "MNC Energy Investments Tbk.",
+  "Tanggal_Pencatatan": "13 Sep 2006",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 364,
+  "Kode": "IBFN",
+  "Nama_Perusahaan": "Intan Baru Prana Tbk.",
+  "Tanggal_Pencatatan": "22 Des 2014",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 365,
+  "Kode": "IBOS",
+  "Nama_Perusahaan": "Indo Boga Sukses Tbk.",
+  "Tanggal_Pencatatan": "25 Apr 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 366,
+  "Kode": "IBST",
+  "Nama_Perusahaan": "Inti Bangun Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "31 Agt 2012",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 367,
+  "Kode": "ICBP",
+  "Nama_Perusahaan": "Indofood CBP Sukses Makmur Tbk",
+  "Tanggal_Pencatatan": "07 Okt 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 368,
+  "Kode": "ICON",
+  "Nama_Perusahaan": "Island Concepts Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2005",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 369,
+  "Kode": "IDEA",
+  "Nama_Perusahaan": "Idea Indonesia Akademi Tbk.",
+  "Tanggal_Pencatatan": "09 Sep 2021",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 370,
+  "Kode": "IDPR",
+  "Nama_Perusahaan": "Indonesia Pondasi Raya Tbk.",
+  "Tanggal_Pencatatan": "10 Des 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 371,
+  "Kode": "IFII",
+  "Nama_Perusahaan": "Indonesia Fibreboard Industry ",
+  "Tanggal_Pencatatan": "10 Des 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 372,
+  "Kode": "IFSH",
+  "Nama_Perusahaan": "Ifishdeco Tbk.",
+  "Tanggal_Pencatatan": "05 Des 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 373,
+  "Kode": "IGAR",
+  "Nama_Perusahaan": "Champion Pacific Indonesia Tbk",
+  "Tanggal_Pencatatan": "05 Nov 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 374,
+  "Kode": "IIKP",
+  "Nama_Perusahaan": "Inti Agri Resources Tbk",
+  "Tanggal_Pencatatan": "14 Okt 2002",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 375,
+  "Kode": "IKAI",
+  "Nama_Perusahaan": "Intikeramik Alamasri Industri ",
+  "Tanggal_Pencatatan": "04 Jun 1997",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 376,
+  "Kode": "IKAN",
+  "Nama_Perusahaan": "Era Mandiri Cemerlang Tbk.",
+  "Tanggal_Pencatatan": "12 Feb 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 377,
+  "Kode": "IKBI",
+  "Nama_Perusahaan": "Sumi Indo Kabel Tbk.",
+  "Tanggal_Pencatatan": "21 Jan 1991",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 378,
+  "Kode": "IKPM",
+  "Nama_Perusahaan": "Ikapharmindo Putramas Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 379,
+  "Kode": "IMAS",
+  "Nama_Perusahaan": "Indomobil Sukses Internasional",
+  "Tanggal_Pencatatan": "15 Nov 1993",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 380,
+  "Kode": "IMJS",
+  "Nama_Perusahaan": "Indomobil Multi Jasa Tbk.",
+  "Tanggal_Pencatatan": "10 Des 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 381,
+  "Kode": "IMPC",
+  "Nama_Perusahaan": "Impack Pratama Industri Tbk.",
+  "Tanggal_Pencatatan": "17 Des 2014",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 382,
+  "Kode": "INAF",
+  "Nama_Perusahaan": "Indofarma Tbk.",
+  "Tanggal_Pencatatan": "17 Apr 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 383,
+  "Kode": "INAI",
+  "Nama_Perusahaan": "Indal Aluminium Industry Tbk.",
+  "Tanggal_Pencatatan": "05 Des 1994",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 384,
+  "Kode": "INCF",
+  "Nama_Perusahaan": "Indo Komoditi Korpora Tbk.",
+  "Tanggal_Pencatatan": "06 Sep 2016",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 385,
+  "Kode": "INCI",
+  "Nama_Perusahaan": "Intanwijaya Internasional Tbk",
+  "Tanggal_Pencatatan": "24 Jul 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 386,
+  "Kode": "INCO",
+  "Nama_Perusahaan": "Vale Indonesia Tbk.",
+  "Tanggal_Pencatatan": "16 Mei 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 387,
+  "Kode": "INDF",
+  "Nama_Perusahaan": "Indofood Sukses Makmur Tbk.",
+  "Tanggal_Pencatatan": "14 Jul 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 388,
+  "Kode": "INDO",
+  "Nama_Perusahaan": "Royalindo Investa Wijaya Tbk.",
+  "Tanggal_Pencatatan": "13 Jan 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 389,
+  "Kode": "INDR",
+  "Nama_Perusahaan": "Indo-Rama Synthetics Tbk.",
+  "Tanggal_Pencatatan": "03 Agt 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 390,
+  "Kode": "INDS",
+  "Nama_Perusahaan": "Indospring Tbk.",
+  "Tanggal_Pencatatan": "10 Agt 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 391,
+  "Kode": "INDX",
+  "Nama_Perusahaan": "Tanah Laut Tbk",
+  "Tanggal_Pencatatan": "17 Mei 2001",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 392,
+  "Kode": "INDY",
+  "Nama_Perusahaan": "Indika Energy Tbk.",
+  "Tanggal_Pencatatan": "11 Jun 2008",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 393,
+  "Kode": "INET",
+  "Nama_Perusahaan": "Sinergi Inti Andalan Prima Tbk",
+  "Tanggal_Pencatatan": "24 Jul 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 394,
+  "Kode": "INKP",
+  "Nama_Perusahaan": "Indah Kiat Pulp & Paper Tbk.",
+  "Tanggal_Pencatatan": "16 Jul 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 395,
+  "Kode": "INOV",
+  "Nama_Perusahaan": "Inocycle Technology Group Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 396,
+  "Kode": "INPC",
+  "Nama_Perusahaan": "Bank Artha Graha Internasional",
+  "Tanggal_Pencatatan": "23 Agt 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 397,
+  "Kode": "INPP",
+  "Nama_Perusahaan": "Indonesian Paradise Property T",
+  "Tanggal_Pencatatan": "12 Jan 2004",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 398,
+  "Kode": "INPS",
+  "Nama_Perusahaan": "Indah Prakasa Sentosa Tbk.",
+  "Tanggal_Pencatatan": "06 Apr 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 399,
+  "Kode": "INRU",
+  "Nama_Perusahaan": "Toba Pulp Lestari Tbk.",
+  "Tanggal_Pencatatan": "18 Jun 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 400,
+  "Kode": "INTA",
+  "Nama_Perusahaan": "Intraco Penta Tbk.",
+  "Tanggal_Pencatatan": "23 Agt 1993",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 401,
+  "Kode": "INTD",
+  "Nama_Perusahaan": "Inter Delta Tbk",
+  "Tanggal_Pencatatan": "18 Des 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 402,
+  "Kode": "INTP",
+  "Nama_Perusahaan": "Indocement Tunggal Prakarsa Tb",
+  "Tanggal_Pencatatan": "05 Des 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 403,
+  "Kode": "IOTF",
+  "Nama_Perusahaan": "Sumber Sinergi Makmur Tbk.",
+  "Tanggal_Pencatatan": "06 Okt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 404,
+  "Kode": "IPAC",
+  "Nama_Perusahaan": "Era Graharealty Tbk.",
+  "Tanggal_Pencatatan": "30 Jun 2021",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 405,
+  "Kode": "IPCC",
+  "Nama_Perusahaan": "Indonesia Kendaraan Terminal T",
+  "Tanggal_Pencatatan": "09 Jul 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 406,
+  "Kode": "IPCM",
+  "Nama_Perusahaan": "Jasa Armada Indonesia Tbk.",
+  "Tanggal_Pencatatan": "22 Des 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 407,
+  "Kode": "IPOL",
+  "Nama_Perusahaan": "Indopoly Swakarsa Industry Tbk",
+  "Tanggal_Pencatatan": "09 Jul 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 408,
+  "Kode": "IPPE",
+  "Nama_Perusahaan": "Indo Pureco Pratama Tbk.",
+  "Tanggal_Pencatatan": "09 Des 2021",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 409,
+  "Kode": "IPTV",
+  "Nama_Perusahaan": "MNC Vision Networks Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 410,
+  "Kode": "IRRA",
+  "Nama_Perusahaan": "Itama Ranoraya Tbk.",
+  "Tanggal_Pencatatan": "15 Okt 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 411,
+  "Kode": "IRSX",
+  "Nama_Perusahaan": "Aviana Sinar Abadi Tbk.",
+  "Tanggal_Pencatatan": "07 Feb 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 412,
+  "Kode": "ISAP",
+  "Nama_Perusahaan": "Isra Presisi Indonesia Tbk.",
+  "Tanggal_Pencatatan": "09 Des 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 413,
+  "Kode": "ISAT",
+  "Nama_Perusahaan": "Indosat Tbk.",
+  "Tanggal_Pencatatan": "19 Okt 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 414,
+  "Kode": "ISSP",
+  "Nama_Perusahaan": "Steel Pipe Industry of Indones",
+  "Tanggal_Pencatatan": "22 Feb 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 415,
+  "Kode": "ITIC",
+  "Nama_Perusahaan": "Indonesian Tobacco Tbk.",
+  "Tanggal_Pencatatan": "04 Jul 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 416,
+  "Kode": "ITMA",
+  "Nama_Perusahaan": "Sumber Energi Andalan Tbk.",
+  "Tanggal_Pencatatan": "10 Des 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 417,
+  "Kode": "ITMG",
+  "Nama_Perusahaan": "Indo Tambangraya Megah Tbk.",
+  "Tanggal_Pencatatan": "18 Des 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 418,
+  "Kode": "JARR",
+  "Nama_Perusahaan": "Jhonlin Agro Raya Tbk.",
+  "Tanggal_Pencatatan": "04 Agt 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 419,
+  "Kode": "JAST",
+  "Nama_Perusahaan": "Jasnita Telekomindo Tbk.",
+  "Tanggal_Pencatatan": "16 Mei 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 420,
+  "Kode": "JATI",
+  "Nama_Perusahaan": "Informasi Teknologi Indonesia ",
+  "Tanggal_Pencatatan": "08 Mei 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 421,
+  "Kode": "JAWA",
+  "Nama_Perusahaan": "Jaya Agra Wattie Tbk.",
+  "Tanggal_Pencatatan": "30 Mei 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 422,
+  "Kode": "JAYA",
+  "Nama_Perusahaan": "Armada Berjaya Trans Tbk.",
+  "Tanggal_Pencatatan": "21 Feb 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 423,
+  "Kode": "JECC",
+  "Nama_Perusahaan": "Jembo Cable Company Tbk.",
+  "Tanggal_Pencatatan": "18 Nov 1992",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 424,
+  "Kode": "JGLE",
+  "Nama_Perusahaan": "Graha Andrasentra Propertindo ",
+  "Tanggal_Pencatatan": "29 Jun 2016",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 425,
+  "Kode": "JIHD",
+  "Nama_Perusahaan": "Jakarta International Hotels &",
+  "Tanggal_Pencatatan": "29 Feb 1984",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 426,
+  "Kode": "JKON",
+  "Nama_Perusahaan": "Jaya Konstruksi Manggala Prata",
+  "Tanggal_Pencatatan": "04 Des 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 427,
+  "Kode": "JKSW",
+  "Nama_Perusahaan": "Jakarta Kyoei Steel Works Tbk.",
+  "Tanggal_Pencatatan": "06 Agt 1997",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 428,
+  "Kode": "JMAS",
+  "Nama_Perusahaan": "Asuransi Jiwa Syariah Jasa Mit",
+  "Tanggal_Pencatatan": "18 Des 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 429,
+  "Kode": "JPFA",
+  "Nama_Perusahaan": "Japfa Comfeed Indonesia Tbk.",
+  "Tanggal_Pencatatan": "23 Okt 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 430,
+  "Kode": "JRPT",
+  "Nama_Perusahaan": "Jaya Real Property Tbk.",
+  "Tanggal_Pencatatan": "29 Jun 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 431,
+  "Kode": "JSKY",
+  "Nama_Perusahaan": "Sky Energy Indonesia Tbk.",
+  "Tanggal_Pencatatan": "28 Mar 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 432,
+  "Kode": "JSMR",
+  "Nama_Perusahaan": "Jasa Marga (Persero) Tbk.",
+  "Tanggal_Pencatatan": "12 Nov 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 433,
+  "Kode": "JSPT",
+  "Nama_Perusahaan": "Jakarta Setiabudi Internasiona",
+  "Tanggal_Pencatatan": "12 Jan 1998",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 434,
+  "Kode": "JTPE",
+  "Nama_Perusahaan": "Jasuindo Tiga Perkasa Tbk.",
+  "Tanggal_Pencatatan": "16 Apr 2002",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 435,
+  "Kode": "KAEF",
+  "Nama_Perusahaan": "Kimia Farma Tbk.",
+  "Tanggal_Pencatatan": "04 Jul 2001",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 436,
+  "Kode": "KARW",
+  "Nama_Perusahaan": "ICTSI Jasa Prima Tbk.",
+  "Tanggal_Pencatatan": "20 Des 1994",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 437,
+  "Kode": "KAYU",
+  "Nama_Perusahaan": "Darmi Bersaudara Tbk.",
+  "Tanggal_Pencatatan": "04 Jul 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 438,
+  "Kode": "KBAG",
+  "Nama_Perusahaan": "Karya Bersama Anugerah Tbk.",
+  "Tanggal_Pencatatan": "08 Apr 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 439,
+  "Kode": "KBLI",
+  "Nama_Perusahaan": "KMI Wire & Cable Tbk.",
+  "Tanggal_Pencatatan": "06 Jul 1992",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 440,
+  "Kode": "KBLM",
+  "Nama_Perusahaan": "Kabelindo Murni Tbk.",
+  "Tanggal_Pencatatan": "01 Jun 1992",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 441,
+  "Kode": "KBLV",
+  "Nama_Perusahaan": "First Media Tbk.",
+  "Tanggal_Pencatatan": "25 Feb 2000",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 442,
+  "Kode": "KBRI",
+  "Nama_Perusahaan": "Kertas Basuki Rachmat Indonesi",
+  "Tanggal_Pencatatan": "11 Jul 2008",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 443,
+  "Kode": "KDSI",
+  "Nama_Perusahaan": "Kedawung Setia Industrial Tbk.",
+  "Tanggal_Pencatatan": "29 Jul 1996",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 444,
+  "Kode": "KDTN",
+  "Nama_Perusahaan": "Puri Sentul Permai Tbk.",
+  "Tanggal_Pencatatan": "09 Nov 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 445,
+  "Kode": "KEEN",
+  "Nama_Perusahaan": "Kencana Energi Lestari Tbk.",
+  "Tanggal_Pencatatan": "02 Sep 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 446,
+  "Kode": "KEJU",
+  "Nama_Perusahaan": "Mulia Boga Raya Tbk.",
+  "Tanggal_Pencatatan": "25 Nov 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 447,
+  "Kode": "KETR",
+  "Nama_Perusahaan": "Ketrosden Triasmitra Tbk.",
+  "Tanggal_Pencatatan": "11 Jan 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 448,
+  "Kode": "KIAS",
+  "Nama_Perusahaan": "Keramika Indonesia Assosiasi T",
+  "Tanggal_Pencatatan": "08 Des 1994",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 449,
+  "Kode": "KICI",
+  "Nama_Perusahaan": "Kedaung Indah Can Tbk",
+  "Tanggal_Pencatatan": "28 Okt 1993",
+  "Papan_Pencatatan": "UTAMA"
+ },
+ {
+  "No": 450,
+  "Kode": "KIJA",
+  "Nama_Perusahaan": "Kawasan Industri Jababeka Tbk.",
+  "Tanggal_Pencatatan": "10 Jan 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 451,
+  "Kode": "KING",
+  "Nama_Perusahaan": "Hoffmen Cleanindo Tbk.",
+  "Tanggal_Pencatatan": "16 Feb 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 452,
+  "Kode": "KINO",
+  "Nama_Perusahaan": "Kino Indonesia Tbk.",
+  "Tanggal_Pencatatan": "11 Des 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 453,
+  "Kode": "KIOS",
+  "Nama_Perusahaan": "Kioson Komersial Indonesia Tbk",
+  "Tanggal_Pencatatan": "05 Okt 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 454,
+  "Kode": "KJEN",
+  "Nama_Perusahaan": "Krida Jaringan Nusantara Tbk.",
+  "Tanggal_Pencatatan": "01 Jul 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 455,
+  "Kode": "KKES",
+  "Nama_Perusahaan": "Kusuma Kemindo Sentosa Tbk.",
+  "Tanggal_Pencatatan": "08 Agt 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 456,
+  "Kode": "KKGI",
+  "Nama_Perusahaan": "Resource Alam Indonesia Tbk.",
+  "Tanggal_Pencatatan": "01 Jul 1991",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 457,
+  "Kode": "KLAS",
+  "Nama_Perusahaan": "Pelayaran Kurnia Lautan Semest",
+  "Tanggal_Pencatatan": "12 Jun 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 458,
+  "Kode": "KLBF",
+  "Nama_Perusahaan": "Kalbe Farma Tbk.",
+  "Tanggal_Pencatatan": "30 Jul 1991",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 459,
+  "Kode": "KLIN",
+  "Nama_Perusahaan": "Klinko Karya Imaji Tbk.",
+  "Tanggal_Pencatatan": "09 Agt 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 460,
+  "Kode": "KMDS",
+  "Nama_Perusahaan": "Kurniamitra Duta Sentosa Tbk.",
+  "Tanggal_Pencatatan": "07 Sep 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 461,
+  "Kode": "KMTR",
+  "Nama_Perusahaan": "Kirana Megatara Tbk.",
+  "Tanggal_Pencatatan": "19 Jun 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 462,
+  "Kode": "KOBX",
+  "Nama_Perusahaan": "Kobexindo Tractors Tbk.",
+  "Tanggal_Pencatatan": "05 Jul 2012",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 463,
+  "Kode": "KOCI",
+  "Nama_Perusahaan": "Kokoh Exa Nusantara Tbk.",
+  "Tanggal_Pencatatan": "07 Okt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 464,
+  "Kode": "KOIN",
+  "Nama_Perusahaan": "Kokoh Inti Arebama Tbk",
+  "Tanggal_Pencatatan": "09 Apr 2008",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 465,
+  "Kode": "KOKA",
+  "Nama_Perusahaan": "Koka Indonesia Tbk.",
+  "Tanggal_Pencatatan": "11 Okt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 466,
+  "Kode": "KONI",
+  "Nama_Perusahaan": "Perdana Bangun Pusaka Tbk",
+  "Tanggal_Pencatatan": "22 Agt 1995",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 467,
+  "Kode": "KOPI",
+  "Nama_Perusahaan": "Mitra Energi Persada Tbk.",
+  "Tanggal_Pencatatan": "04 Mei 2015",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 468,
+  "Kode": "KOTA",
+  "Nama_Perusahaan": "DMS Propertindo Tbk.",
+  "Tanggal_Pencatatan": "09 Jul 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 469,
+  "Kode": "KPAL",
+  "Nama_Perusahaan": "Steadfast Marine Tbk.",
+  "Tanggal_Pencatatan": "08 Jun 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 470,
+  "Kode": "KPAS",
+  "Nama_Perusahaan": "Cottonindo Ariesta Tbk.",
+  "Tanggal_Pencatatan": "05 Okt 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 471,
+  "Kode": "KPIG",
+  "Nama_Perusahaan": "MNC Land Tbk.",
+  "Tanggal_Pencatatan": "30 Mar 2000",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 472,
+  "Kode": "KRAH",
+  "Nama_Perusahaan": "Grand Kartech Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2013",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 473,
+  "Kode": "KRAS",
+  "Nama_Perusahaan": "Krakatau Steel (Persero) Tbk.",
+  "Tanggal_Pencatatan": "10 Nov 2010",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 474,
+  "Kode": "KREN",
+  "Nama_Perusahaan": "Quantum Clovera Investama Tbk.",
+  "Tanggal_Pencatatan": "28 Jun 2002",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 475,
+  "Kode": "KRYA",
+  "Nama_Perusahaan": "Bangun Karya Perkasa Jaya Tbk.",
+  "Tanggal_Pencatatan": "25 Jul 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 476,
+  "Kode": "KUAS",
+  "Nama_Perusahaan": "Ace Oldfields Tbk.",
+  "Tanggal_Pencatatan": "25 Okt 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 477,
+  "Kode": "LABA",
+  "Nama_Perusahaan": "Ladangbaja Murni Tbk.",
+  "Tanggal_Pencatatan": "10 Jun 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 478,
+  "Kode": "LAJU",
+  "Nama_Perusahaan": "Jasa Berdikari Logistics Tbk.",
+  "Tanggal_Pencatatan": "27 Jan 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 479,
+  "Kode": "LAND",
+  "Nama_Perusahaan": "Trimitra Propertindo Tbk.",
+  "Tanggal_Pencatatan": "23 Agt 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 480,
+  "Kode": "LAPD",
+  "Nama_Perusahaan": "Leyand International Tbk.",
+  "Tanggal_Pencatatan": "17 Jul 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 481,
+  "Kode": "LCGP",
+  "Nama_Perusahaan": "Eureka Prima Jakarta Tbk.",
+  "Tanggal_Pencatatan": "13 Jul 2007",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 482,
+  "Kode": "LCKM",
+  "Nama_Perusahaan": "LCK Global Kedaton Tbk.",
+  "Tanggal_Pencatatan": "16 Jan 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 483,
+  "Kode": "LEAD",
+  "Nama_Perusahaan": "Logindo Samudramakmur Tbk.",
+  "Tanggal_Pencatatan": "11 Des 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 484,
+  "Kode": "LFLO",
+  "Nama_Perusahaan": "Imago Mulia Persada Tbk.",
+  "Tanggal_Pencatatan": "07 Apr 2021",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 485,
+  "Kode": "LIFE",
+  "Nama_Perusahaan": "MSIG Life Insurance Indonesia ",
+  "Tanggal_Pencatatan": "09 Jul 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 486,
+  "Kode": "LINK",
+  "Nama_Perusahaan": "Link Net Tbk.",
+  "Tanggal_Pencatatan": "02 Jun 2014",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 487,
+  "Kode": "LION",
+  "Nama_Perusahaan": "Lion Metal Works Tbk.",
+  "Tanggal_Pencatatan": "20 Agt 1993",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 488,
+  "Kode": "LMAS",
+  "Nama_Perusahaan": "Limas Indonesia Makmur Tbk",
+  "Tanggal_Pencatatan": "28 Des 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 489,
+  "Kode": "LMAX",
+  "Nama_Perusahaan": "Lupromax Pelumas Indonesia Tbk",
+  "Tanggal_Pencatatan": "09 Agt 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 490,
+  "Kode": "LMPI",
+  "Nama_Perusahaan": "Langgeng Makmur Industri Tbk.",
+  "Tanggal_Pencatatan": "17 Okt 1994",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 491,
+  "Kode": "LMSH",
+  "Nama_Perusahaan": "Lionmesh Prima Tbk.",
+  "Tanggal_Pencatatan": "04 Jun 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 492,
+  "Kode": "LOPI",
+  "Nama_Perusahaan": "Logisticsplus International Tb",
+  "Tanggal_Pencatatan": "11 Okt 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 493,
+  "Kode": "LPCK",
+  "Nama_Perusahaan": "Lippo Cikarang Tbk",
+  "Tanggal_Pencatatan": "24 Jul 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 494,
+  "Kode": "LPGI",
+  "Nama_Perusahaan": "Lippo General Insurance Tbk.",
+  "Tanggal_Pencatatan": "22 Jul 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 495,
+  "Kode": "LPIN",
+  "Nama_Perusahaan": "Multi Prima Sejahtera Tbk",
+  "Tanggal_Pencatatan": "05 Feb 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 496,
+  "Kode": "LPKR",
+  "Nama_Perusahaan": "Lippo Karawaci Tbk.",
+  "Tanggal_Pencatatan": "28 Jun 1996",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 497,
+  "Kode": "LPLI",
+  "Nama_Perusahaan": "Star Pacific Tbk",
+  "Tanggal_Pencatatan": "23 Okt 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 498,
+  "Kode": "LPPF",
+  "Nama_Perusahaan": "Matahari Department Store Tbk.",
+  "Tanggal_Pencatatan": "09 Okt 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 499,
+  "Kode": "LPPS",
+  "Nama_Perusahaan": "Lenox Pasifik Investama Tbk.",
+  "Tanggal_Pencatatan": "28 Mar 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 500,
+  "Kode": "LRNA",
+  "Nama_Perusahaan": "Eka Sari Lorena Transport Tbk.",
+  "Tanggal_Pencatatan": "15 Apr 2014",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 501,
+  "Kode": "LSIP",
+  "Nama_Perusahaan": "PP London Sumatra Indonesia Tb",
+  "Tanggal_Pencatatan": "05 Jul 1996",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 502,
+  "Kode": "LTLS",
+  "Nama_Perusahaan": "Lautan Luas Tbk.",
+  "Tanggal_Pencatatan": "21 Jul 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 503,
+  "Kode": "LUCK",
+  "Nama_Perusahaan": "Sentral Mitra Informatika Tbk.",
+  "Tanggal_Pencatatan": "28 Nov 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 504,
+  "Kode": "LUCY",
+  "Nama_Perusahaan": "Lima Dua Lima Tiga Tbk.",
+  "Tanggal_Pencatatan": "05 Mei 2021",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 505,
+  "Kode": "MABA",
+  "Nama_Perusahaan": "Marga Abhinaya Abadi Tbk.",
+  "Tanggal_Pencatatan": "22 Jun 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 506,
+  "Kode": "MAGP",
+  "Nama_Perusahaan": "Multi Agro Gemilang Plantation",
+  "Tanggal_Pencatatan": "16 Jan 2013",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 507,
+  "Kode": "MAHA",
+  "Nama_Perusahaan": "Mandiri Herindo Adiperkasa Tbk",
+  "Tanggal_Pencatatan": "25 Jul 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 508,
+  "Kode": "MAIN",
+  "Nama_Perusahaan": "Malindo Feedmill Tbk.",
+  "Tanggal_Pencatatan": "10 Feb 2006",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 509,
+  "Kode": "MAMI",
+  "Nama_Perusahaan": "Mas Murni Indonesia Tbk",
+  "Tanggal_Pencatatan": "09 Feb 1994",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 510,
+  "Kode": "MAPA",
+  "Nama_Perusahaan": "Map Aktif Adiperkasa Tbk.",
+  "Tanggal_Pencatatan": "05 Jul 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 511,
+  "Kode": "MAPB",
+  "Nama_Perusahaan": "MAP Boga Adiperkasa Tbk.",
+  "Tanggal_Pencatatan": "21 Jun 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 512,
+  "Kode": "MAPI",
+  "Nama_Perusahaan": "Mitra Adiperkasa Tbk.",
+  "Tanggal_Pencatatan": "10 Nov 2004",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 513,
+  "Kode": "MARI",
+  "Nama_Perusahaan": "Mahaka Radio Integra Tbk.",
+  "Tanggal_Pencatatan": "11 Feb 2016",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 514,
+  "Kode": "MARK",
+  "Nama_Perusahaan": "Mark Dynamics Indonesia Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 515,
+  "Kode": "MASA",
+  "Nama_Perusahaan": "Multistrada Arah Sarana Tbk.",
+  "Tanggal_Pencatatan": "09 Jun 2005",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 516,
+  "Kode": "MASB",
+  "Nama_Perusahaan": "Bank Multiarta Sentosa Tbk.",
+  "Tanggal_Pencatatan": "30 Jun 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 517,
+  "Kode": "MAXI",
+  "Nama_Perusahaan": "Maxindo Karya Anugerah Tbk.",
+  "Tanggal_Pencatatan": "12 Jun 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 518,
+  "Kode": "MAYA",
+  "Nama_Perusahaan": "Bank Mayapada Internasional Tb",
+  "Tanggal_Pencatatan": "29 Agt 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 519,
+  "Kode": "MBAP",
+  "Nama_Perusahaan": "Mitrabara Adiperdana Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2014",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 520,
+  "Kode": "MBMA",
+  "Nama_Perusahaan": "Merdeka Battery Materials Tbk.",
+  "Tanggal_Pencatatan": "18 Apr 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 521,
+  "Kode": "MBSS",
+  "Nama_Perusahaan": "Mitrabahtera Segara Sejati Tbk",
+  "Tanggal_Pencatatan": "06 Apr 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 522,
+  "Kode": "MBTO",
+  "Nama_Perusahaan": "Martina Berto Tbk.",
+  "Tanggal_Pencatatan": "13 Jan 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 523,
+  "Kode": "MCAS",
+  "Nama_Perusahaan": "M Cash Integrasi Tbk.",
+  "Tanggal_Pencatatan": "01 Nov 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 524,
+  "Kode": "MCOL",
+  "Nama_Perusahaan": "Prima Andalan Mandiri Tbk.",
+  "Tanggal_Pencatatan": "07 Sep 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 525,
+  "Kode": "MCOR",
+  "Nama_Perusahaan": "Bank China Construction Bank I",
+  "Tanggal_Pencatatan": "03 Jul 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 526,
+  "Kode": "MDIA",
+  "Nama_Perusahaan": "Intermedia Capital Tbk.",
+  "Tanggal_Pencatatan": "11 Apr 2014",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 527,
+  "Kode": "MDKA",
+  "Nama_Perusahaan": "Merdeka Copper Gold Tbk.",
+  "Tanggal_Pencatatan": "19 Jun 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 528,
+  "Kode": "MDKI",
+  "Nama_Perusahaan": "Emdeki Utama Tbk.",
+  "Tanggal_Pencatatan": "25 Sep 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 529,
+  "Kode": "MDLN",
+  "Nama_Perusahaan": "Modernland Realty Tbk.",
+  "Tanggal_Pencatatan": "18 Jan 1993",
+  "Papan_Pencatatan": "UTAMA"
+ },
+ {
+  "No": 530,
+  "Kode": "MDRN",
+  "Nama_Perusahaan": "Modern Internasional Tbk.",
+  "Tanggal_Pencatatan": "16 Jul 1991",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 531,
+  "Kode": "MEDC",
+  "Nama_Perusahaan": "Medco Energi Internasional Tbk",
+  "Tanggal_Pencatatan": "12 Okt 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 532,
+  "Kode": "MEDS",
+  "Nama_Perusahaan": "Hetzer Medical Indonesia Tbk.",
+  "Tanggal_Pencatatan": "10 Agt 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 533,
+  "Kode": "MEGA",
+  "Nama_Perusahaan": "Bank Mega Tbk.",
+  "Tanggal_Pencatatan": "17 Apr 2000",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 534,
+  "Kode": "MENN",
+  "Nama_Perusahaan": "Menn Teknologi Indonesia Tbk.",
+  "Tanggal_Pencatatan": "18 Apr 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 535,
+  "Kode": "MERK",
+  "Nama_Perusahaan": "Merck Tbk.",
+  "Tanggal_Pencatatan": "23 Jul 1981",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 536,
+  "Kode": "META",
+  "Nama_Perusahaan": "Nusantara Infrastructure Tbk.",
+  "Tanggal_Pencatatan": "18 Jul 2001",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 537,
+  "Kode": "MFIN",
+  "Nama_Perusahaan": "Mandala Multifinance Tbk.",
+  "Tanggal_Pencatatan": "06 Sep 2005",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 538,
+  "Kode": "MFMI",
+  "Nama_Perusahaan": "Multifiling Mitra Indonesia Tb",
+  "Tanggal_Pencatatan": "29 Des 2010",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 539,
+  "Kode": "MGLV",
+  "Nama_Perusahaan": "Panca Anugrah Wisesa Tbk.",
+  "Tanggal_Pencatatan": "08 Jun 2021",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 540,
+  "Kode": "MGNA",
+  "Nama_Perusahaan": "Magna Investama Mandiri Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2014",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 541,
+  "Kode": "MGRO",
+  "Nama_Perusahaan": "Mahkota Group Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 542,
+  "Kode": "MICE",
+  "Nama_Perusahaan": "Multi Indocitra Tbk.",
+  "Tanggal_Pencatatan": "21 Des 2005",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 543,
+  "Kode": "MIDI",
+  "Nama_Perusahaan": "Midi Utama Indonesia Tbk.",
+  "Tanggal_Pencatatan": "30 Nov 2010",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 544,
+  "Kode": "MIKA",
+  "Nama_Perusahaan": "Mitra Keluarga Karyasehat Tbk.",
+  "Tanggal_Pencatatan": "24 Mar 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 545,
+  "Kode": "MINA",
+  "Nama_Perusahaan": "Sanurhasta Mitra Tbk.",
+  "Tanggal_Pencatatan": "28 Apr 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 546,
+  "Kode": "MIRA",
+  "Nama_Perusahaan": "Mitra International Resources ",
+  "Tanggal_Pencatatan": "30 Jan 1997",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 547,
+  "Kode": "MITI",
+  "Nama_Perusahaan": "Mitra Investindo Tbk.",
+  "Tanggal_Pencatatan": "16 Jul 1997",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 548,
+  "Kode": "MKNT",
+  "Nama_Perusahaan": "Mitra Komunikasi Nusantara Tbk",
+  "Tanggal_Pencatatan": "26 Okt 2015",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 549,
+  "Kode": "MKPI",
+  "Nama_Perusahaan": "Metropolitan Kentjana Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2009",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 550,
+  "Kode": "MKTR",
+  "Nama_Perusahaan": "Menthobi Karyatama Raya Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 551,
+  "Kode": "MLBI",
+  "Nama_Perusahaan": "Multi Bintang Indonesia Tbk.",
+  "Tanggal_Pencatatan": "15 Des 1981",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 552,
+  "Kode": "MLIA",
+  "Nama_Perusahaan": "Mulia Industrindo Tbk",
+  "Tanggal_Pencatatan": "17 Jan 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 553,
+  "Kode": "MLPL",
+  "Nama_Perusahaan": "Multipolar Tbk.",
+  "Tanggal_Pencatatan": "06 Nov 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 554,
+  "Kode": "MLPT",
+  "Nama_Perusahaan": "Multipolar Technology Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 555,
+  "Kode": "MMIX",
+  "Nama_Perusahaan": "Multi Medika Internasional Tbk",
+  "Tanggal_Pencatatan": "06 Des 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 556,
+  "Kode": "MMLP",
+  "Nama_Perusahaan": "Mega Manunggal Property Tbk.",
+  "Tanggal_Pencatatan": "12 Jun 2015",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 557,
+  "Kode": "MNCN",
+  "Nama_Perusahaan": "Media Nusantara Citra Tbk.",
+  "Tanggal_Pencatatan": "22 Jun 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 558,
+  "Kode": "MOLI",
+  "Nama_Perusahaan": "Madusari Murni Indah Tbk.",
+  "Tanggal_Pencatatan": "30 Agt 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 559,
+  "Kode": "MORA",
+  "Nama_Perusahaan": "Mora Telematika Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Agt 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 560,
+  "Kode": "MPMX",
+  "Nama_Perusahaan": "Mitra Pinasthika Mustika Tbk.",
+  "Tanggal_Pencatatan": "29 Mei 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 561,
+  "Kode": "MPOW",
+  "Nama_Perusahaan": "Megapower Makmur Tbk.",
+  "Tanggal_Pencatatan": "05 Jul 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 562,
+  "Kode": "MPPA",
+  "Nama_Perusahaan": "Matahari Putra Prima Tbk.",
+  "Tanggal_Pencatatan": "21 Des 1992",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 563,
+  "Kode": "MPRO",
+  "Nama_Perusahaan": "Maha Properti Indonesia Tbk.",
+  "Tanggal_Pencatatan": "09 Okt 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 564,
+  "Kode": "MPXL",
+  "Nama_Perusahaan": "MPX Logistics International Tb",
+  "Tanggal_Pencatatan": "09 Mei 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 565,
+  "Kode": "MRAT",
+  "Nama_Perusahaan": "Mustika Ratu Tbk.",
+  "Tanggal_Pencatatan": "27 Jul 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 566,
+  "Kode": "MREI",
+  "Nama_Perusahaan": "Maskapai Reasuransi Indonesia ",
+  "Tanggal_Pencatatan": "04 Sep 1989",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 567,
+  "Kode": "MSIE",
+  "Nama_Perusahaan": "Multisarana Intan Eduka Tbk.",
+  "Tanggal_Pencatatan": "10 Agt 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 568,
+  "Kode": "MSIN",
+  "Nama_Perusahaan": "MNC Digital Entertainment Tbk.",
+  "Tanggal_Pencatatan": "08 Jun 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 569,
+  "Kode": "MSKY",
+  "Nama_Perusahaan": "MNC Sky Vision Tbk.",
+  "Tanggal_Pencatatan": "09 Jul 2012",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 570,
+  "Kode": "MSTI",
+  "Nama_Perusahaan": "Mastersystem Infotama Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 571,
+  "Kode": "MTDL",
+  "Nama_Perusahaan": "Metrodata Electronics Tbk.",
+  "Tanggal_Pencatatan": "09 Apr 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 572,
+  "Kode": "MTEL",
+  "Nama_Perusahaan": "Dayamitra Telekomunikasi Tbk.",
+  "Tanggal_Pencatatan": "22 Nov 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 573,
+  "Kode": "MTFN",
+  "Nama_Perusahaan": "Capitalinc Investment Tbk.",
+  "Tanggal_Pencatatan": "16 Apr 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 574,
+  "Kode": "MTLA",
+  "Nama_Perusahaan": "Metropolitan Land Tbk.",
+  "Tanggal_Pencatatan": "20 Jun 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 575,
+  "Kode": "MTMH",
+  "Nama_Perusahaan": "Murni Sadar Tbk.",
+  "Tanggal_Pencatatan": "20 Apr 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 576,
+  "Kode": "MTPS",
+  "Nama_Perusahaan": "Meta Epsi Tbk.",
+  "Tanggal_Pencatatan": "10 Apr 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 577,
+  "Kode": "MTRA",
+  "Nama_Perusahaan": "Mitra Pemuda Tbk.",
+  "Tanggal_Pencatatan": "10 Feb 2016",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 578,
+  "Kode": "MTSM",
+  "Nama_Perusahaan": "Metro Realty Tbk.",
+  "Tanggal_Pencatatan": "08 Jan 1992",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 579,
+  "Kode": "MTWI",
+  "Nama_Perusahaan": "Malacca Trust Wuwungan Insuran",
+  "Tanggal_Pencatatan": "12 Okt 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 580,
+  "Kode": "MUTU",
+  "Nama_Perusahaan": "Mutuagung Lestari Tbk.",
+  "Tanggal_Pencatatan": "09 Agt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 581,
+  "Kode": "MYOH",
+  "Nama_Perusahaan": "Samindo Resources Tbk.",
+  "Tanggal_Pencatatan": "27 Jul 2000",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 582,
+  "Kode": "MYOR",
+  "Nama_Perusahaan": "Mayora Indah Tbk.",
+  "Tanggal_Pencatatan": "04 Jul 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 583,
+  "Kode": "MYRX",
+  "Nama_Perusahaan": "Hanson International Tbk.",
+  "Tanggal_Pencatatan": "31 Okt 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 584,
+  "Kode": "MYTX",
+  "Nama_Perusahaan": "Asia Pacific Investama Tbk.",
+  "Tanggal_Pencatatan": "10 Okt 1989",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 585,
+  "Kode": "NANO",
+  "Nama_Perusahaan": "Nanotech Indonesia Global Tbk.",
+  "Tanggal_Pencatatan": "10 Mar 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 586,
+  "Kode": "NASA",
+  "Nama_Perusahaan": "Andalan Perkasa Abadi Tbk.",
+  "Tanggal_Pencatatan": "07 Agt 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 587,
+  "Kode": "NASI",
+  "Nama_Perusahaan": "Wahana Inti Makmur Tbk.",
+  "Tanggal_Pencatatan": "13 Des 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 588,
+  "Kode": "NATO",
+  "Nama_Perusahaan": "Surya Permata Andalan Tbk.",
+  "Tanggal_Pencatatan": "18 Jan 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 589,
+  "Kode": "NAYZ",
+  "Nama_Perusahaan": "Hassana Boga Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "06 Feb 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 590,
+  "Kode": "NCKL",
+  "Nama_Perusahaan": "Trimegah Bangun Persada Tbk.",
+  "Tanggal_Pencatatan": "12 Apr 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 591,
+  "Kode": "NELY",
+  "Nama_Perusahaan": "Pelayaran Nelly Dwi Putri Tbk.",
+  "Tanggal_Pencatatan": "11 Okt 2012",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 592,
+  "Kode": "NETV",
+  "Nama_Perusahaan": "Net Visi Media Tbk.",
+  "Tanggal_Pencatatan": "26 Jan 2022",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 593,
+  "Kode": "NFCX",
+  "Nama_Perusahaan": "NFC Indonesia Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 594,
+  "Kode": "NICK",
+  "Nama_Perusahaan": "Charnic Capital Tbk.",
+  "Tanggal_Pencatatan": "02 Mei 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 595,
+  "Kode": "NICL",
+  "Nama_Perusahaan": "PAM Mineral Tbk.",
+  "Tanggal_Pencatatan": "09 Jul 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 596,
+  "Kode": "NIKL",
+  "Nama_Perusahaan": "Pelat Timah Nusantara Tbk.",
+  "Tanggal_Pencatatan": "14 Des 2009",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 597,
+  "Kode": "NINE",
+  "Nama_Perusahaan": "Techno9 Indonesia Tbk.",
+  "Tanggal_Pencatatan": "05 Des 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 598,
+  "Kode": "NIPS",
+  "Nama_Perusahaan": "Nipress Tbk.",
+  "Tanggal_Pencatatan": "24 Jul 1991",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 599,
+  "Kode": "NIRO",
+  "Nama_Perusahaan": "City Retail Developments Tbk.",
+  "Tanggal_Pencatatan": "13 Sep 2012",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 600,
+  "Kode": "NISP",
+  "Nama_Perusahaan": "Bank OCBC NISP Tbk.",
+  "Tanggal_Pencatatan": "20 Okt 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 601,
+  "Kode": "NOBU",
+  "Nama_Perusahaan": "Bank Nationalnobu Tbk.",
+  "Tanggal_Pencatatan": "20 Mei 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 602,
+  "Kode": "NPGF",
+  "Nama_Perusahaan": "Nusa Palapa Gemilang Tbk.",
+  "Tanggal_Pencatatan": "14 Apr 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 603,
+  "Kode": "NRCA",
+  "Nama_Perusahaan": "Nusa Raya Cipta Tbk.",
+  "Tanggal_Pencatatan": "27 Jun 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 604,
+  "Kode": "NSSS",
+  "Nama_Perusahaan": "Nusantara Sawit Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "10 Mar 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 605,
+  "Kode": "NTBK",
+  "Nama_Perusahaan": "Nusatama Berkah Tbk.",
+  "Tanggal_Pencatatan": "09 Feb 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 606,
+  "Kode": "NUSA",
+  "Nama_Perusahaan": "Sinergi Megah Internusa Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 607,
+  "Kode": "NZIA",
+  "Nama_Perusahaan": "Nusantara Almazia Tbk.",
+  "Tanggal_Pencatatan": "25 Sep 2019",
+  "Papan_Pencatatan": "UTAMA"
+ },
+ {
+  "No": 608,
+  "Kode": "OASA",
+  "Nama_Perusahaan": "Maharaksa Biru Energi Tbk.",
+  "Tanggal_Pencatatan": "18 Jul 2016",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 609,
+  "Kode": "OBMD",
+  "Nama_Perusahaan": "OBM Drilchem Tbk.",
+  "Tanggal_Pencatatan": "08 Des 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 610,
+  "Kode": "OCAP",
+  "Nama_Perusahaan": "Onix Capital Tbk.",
+  "Tanggal_Pencatatan": "10 Okt 2003",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 611,
+  "Kode": "OILS",
+  "Nama_Perusahaan": "Indo Oil Perkasa Tbk.",
+  "Tanggal_Pencatatan": "06 Sep 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 612,
+  "Kode": "OKAS",
+  "Nama_Perusahaan": "Ancora Indonesia Resources Tbk",
+  "Tanggal_Pencatatan": "29 Mar 2006",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 613,
+  "Kode": "OLIV",
+  "Nama_Perusahaan": "Oscar Mitra Sukses Sejahtera T",
+  "Tanggal_Pencatatan": "17 Mei 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 614,
+  "Kode": "OMED",
+  "Nama_Perusahaan": "Jayamas Medica Industri Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 615,
+  "Kode": "OMRE",
+  "Nama_Perusahaan": "Indonesia Prima Property Tbk",
+  "Tanggal_Pencatatan": "22 Agt 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 616,
+  "Kode": "OPMS",
+  "Nama_Perusahaan": "Optima Prima Metal Sinergi Tbk",
+  "Tanggal_Pencatatan": "23 Sep 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 617,
+  "Kode": "PACK",
+  "Nama_Perusahaan": "Solusi Kemasan Digital Tbk.",
+  "Tanggal_Pencatatan": "08 Feb 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 618,
+  "Kode": "PADA",
+  "Nama_Perusahaan": "Personel Alih Daya Tbk.",
+  "Tanggal_Pencatatan": "08 Des 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 619,
+  "Kode": "PADI",
+  "Nama_Perusahaan": "Minna Padi Investama Sekuritas",
+  "Tanggal_Pencatatan": "09 Jan 2012",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 620,
+  "Kode": "PALM",
+  "Nama_Perusahaan": "Provident Investasi Bersama Tb",
+  "Tanggal_Pencatatan": "08 Okt 2012",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 621,
+  "Kode": "PAMG",
+  "Nama_Perusahaan": "Bima Sakti Pertiwi Tbk.",
+  "Tanggal_Pencatatan": "05 Jul 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 622,
+  "Kode": "PANI",
+  "Nama_Perusahaan": "Pantai Indah Kapuk Dua Tbk.",
+  "Tanggal_Pencatatan": "18 Sep 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 623,
+  "Kode": "PANR",
+  "Nama_Perusahaan": "Panorama Sentrawisata Tbk.",
+  "Tanggal_Pencatatan": "18 Sep 2001",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 624,
+  "Kode": "PANS",
+  "Nama_Perusahaan": "Panin Sekuritas Tbk.",
+  "Tanggal_Pencatatan": "31 Mei 2000",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 625,
+  "Kode": "PBID",
+  "Nama_Perusahaan": "Panca Budi Idaman Tbk.",
+  "Tanggal_Pencatatan": "13 Des 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 626,
+  "Kode": "PBRX",
+  "Nama_Perusahaan": "Pan Brothers Tbk.",
+  "Tanggal_Pencatatan": "16 Agt 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 627,
+  "Kode": "PBSA",
+  "Nama_Perusahaan": "Paramita Bangun Sarana Tbk.",
+  "Tanggal_Pencatatan": "28 Sep 2016",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 628,
+  "Kode": "PCAR",
+  "Nama_Perusahaan": "Prima Cakrawala Abadi Tbk.",
+  "Tanggal_Pencatatan": "29 Des 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 629,
+  "Kode": "PDES",
+  "Nama_Perusahaan": "Destinasi Tirta Nusantara Tbk",
+  "Tanggal_Pencatatan": "08 Jul 2008",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 630,
+  "Kode": "PDPP",
+  "Nama_Perusahaan": "Primadaya Plastisindo Tbk.",
+  "Tanggal_Pencatatan": "09 Nov 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 631,
+  "Kode": "PEGE",
+  "Nama_Perusahaan": "Panca Global Kapital Tbk.",
+  "Tanggal_Pencatatan": "24 Jun 2005",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 632,
+  "Kode": "PEHA",
+  "Nama_Perusahaan": "Phapros Tbk.",
+  "Tanggal_Pencatatan": "26 Des 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 633,
+  "Kode": "PEVE",
+  "Nama_Perusahaan": "Penta Valent Tbk.",
+  "Tanggal_Pencatatan": "24 Jan 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 634,
+  "Kode": "PGAS",
+  "Nama_Perusahaan": "Perusahaan Gas Negara Tbk.",
+  "Tanggal_Pencatatan": "15 Des 2003",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 635,
+  "Kode": "PGEO",
+  "Nama_Perusahaan": "Pertamina Geothermal Energy Tb",
+  "Tanggal_Pencatatan": "24 Feb 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 636,
+  "Kode": "PGJO",
+  "Nama_Perusahaan": "Tourindo Guide Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Jan 2020",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 637,
+  "Kode": "PGLI",
+  "Nama_Perusahaan": "Pembangunan Graha Lestari Inda",
+  "Tanggal_Pencatatan": "05 Apr 2000",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 638,
+  "Kode": "PGUN",
+  "Nama_Perusahaan": "Pradiksi Gunatama Tbk.",
+  "Tanggal_Pencatatan": "07 Jul 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 639,
+  "Kode": "PICO",
+  "Nama_Perusahaan": "Pelangi Indah Canindo Tbk",
+  "Tanggal_Pencatatan": "23 Sep 1996",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 640,
+  "Kode": "PIPA",
+  "Nama_Perusahaan": "Multi Makmur Lemindo Tbk.",
+  "Tanggal_Pencatatan": "10 Apr 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 641,
+  "Kode": "PJAA",
+  "Nama_Perusahaan": "Pembangunan Jaya Ancol Tbk.",
+  "Tanggal_Pencatatan": "02 Jul 2004",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 642,
+  "Kode": "PKPK",
+  "Nama_Perusahaan": "Perdana Karya Perkasa Tbk",
+  "Tanggal_Pencatatan": "11 Jul 2007",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 643,
+  "Kode": "PLAN",
+  "Nama_Perusahaan": "Planet Properindo Jaya Tbk.",
+  "Tanggal_Pencatatan": "15 Sep 2020",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 644,
+  "Kode": "PLAS",
+  "Nama_Perusahaan": "Polaris Investama Tbk",
+  "Tanggal_Pencatatan": "16 Mar 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 645,
+  "Kode": "PLIN",
+  "Nama_Perusahaan": "Plaza Indonesia Realty Tbk.",
+  "Tanggal_Pencatatan": "15 Jun 1992",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 646,
+  "Kode": "PMJS",
+  "Nama_Perusahaan": "Putra Mandiri Jembar Tbk.",
+  "Tanggal_Pencatatan": "18 Des 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 647,
+  "Kode": "PMMP",
+  "Nama_Perusahaan": "Panca Mitra Multiperdana Tbk.",
+  "Tanggal_Pencatatan": "18 Des 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 648,
+  "Kode": "PNBN",
+  "Nama_Perusahaan": "Bank Pan Indonesia Tbk",
+  "Tanggal_Pencatatan": "29 Des 1982",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 649,
+  "Kode": "PNBS",
+  "Nama_Perusahaan": "Bank Panin Dubai Syariah Tbk.",
+  "Tanggal_Pencatatan": "15 Jan 2014",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 650,
+  "Kode": "PNGO",
+  "Nama_Perusahaan": "Pinago Utama Tbk.",
+  "Tanggal_Pencatatan": "31 Agt 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 651,
+  "Kode": "PNIN",
+  "Nama_Perusahaan": "Paninvest Tbk.",
+  "Tanggal_Pencatatan": "20 Sep 1983",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 652,
+  "Kode": "PNLF",
+  "Nama_Perusahaan": "Panin Financial Tbk.",
+  "Tanggal_Pencatatan": "14 Jun 1983",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 653,
+  "Kode": "PNSE",
+  "Nama_Perusahaan": "Pudjiadi & Sons Tbk.",
+  "Tanggal_Pencatatan": "01 Mei 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 654,
+  "Kode": "POLA",
+  "Nama_Perusahaan": "Pool Advista Finance Tbk.",
+  "Tanggal_Pencatatan": "16 Nov 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 655,
+  "Kode": "POLI",
+  "Nama_Perusahaan": "Pollux Hotels Group Tbk.",
+  "Tanggal_Pencatatan": "10 Jan 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 656,
+  "Kode": "POLL",
+  "Nama_Perusahaan": "Pollux Properties Indonesia Tb",
+  "Tanggal_Pencatatan": "11 Jul 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 657,
+  "Kode": "POLU",
+  "Nama_Perusahaan": "Golden Flower Tbk.",
+  "Tanggal_Pencatatan": "26 Jun 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 658,
+  "Kode": "POLY",
+  "Nama_Perusahaan": "Asia Pacific Fibers Tbk",
+  "Tanggal_Pencatatan": "12 Mar 1991",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 659,
+  "Kode": "POOL",
+  "Nama_Perusahaan": "Pool Advista Indonesia Tbk.",
+  "Tanggal_Pencatatan": "20 Mei 1991",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 660,
+  "Kode": "PORT",
+  "Nama_Perusahaan": "Nusantara Pelabuhan Handal Tbk",
+  "Tanggal_Pencatatan": "16 Mar 2017",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 661,
+  "Kode": "POSA",
+  "Nama_Perusahaan": "Bliss Properti Indonesia Tbk.",
+  "Tanggal_Pencatatan": "10 Mei 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 662,
+  "Kode": "POWR",
+  "Nama_Perusahaan": "Cikarang Listrindo Tbk.",
+  "Tanggal_Pencatatan": "14 Jun 2016",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 663,
+  "Kode": "PPGL",
+  "Nama_Perusahaan": "Prima Globalindo Logistik Tbk.",
+  "Tanggal_Pencatatan": "20 Jul 2020",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 664,
+  "Kode": "PPRE",
+  "Nama_Perusahaan": "PP Presisi Tbk.",
+  "Tanggal_Pencatatan": "24 Nov 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 665,
+  "Kode": "PPRI",
+  "Nama_Perusahaan": "Paperocks Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Agt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 666,
+  "Kode": "PPRO",
+  "Nama_Perusahaan": "PP Properti Tbk.",
+  "Tanggal_Pencatatan": "19 Mei 2015",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 667,
+  "Kode": "PRAS",
+  "Nama_Perusahaan": "Prima Alloy Steel Universal Tb",
+  "Tanggal_Pencatatan": "12 Jul 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 668,
+  "Kode": "PRAY",
+  "Nama_Perusahaan": "Famon Awal Bros Sedaya Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 669,
+  "Kode": "PRDA",
+  "Nama_Perusahaan": "Prodia Widyahusada Tbk.",
+  "Tanggal_Pencatatan": "07 Des 2016",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 670,
+  "Kode": "PRIM",
+  "Nama_Perusahaan": "Royal Prima Tbk.",
+  "Tanggal_Pencatatan": "15 Mei 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 671,
+  "Kode": "PSAB",
+  "Nama_Perusahaan": "J Resources Asia Pasifik Tbk.",
+  "Tanggal_Pencatatan": "22 Apr 2003",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 672,
+  "Kode": "PSDN",
+  "Nama_Perusahaan": "Prasidha Aneka Niaga Tbk",
+  "Tanggal_Pencatatan": "18 Okt 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 673,
+  "Kode": "PSGO",
+  "Nama_Perusahaan": "Palma Serasih Tbk.",
+  "Tanggal_Pencatatan": "25 Nov 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 674,
+  "Kode": "PSKT",
+  "Nama_Perusahaan": "Red Planet Indonesia Tbk.",
+  "Tanggal_Pencatatan": "19 Sep 1995",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 675,
+  "Kode": "PSSI",
+  "Nama_Perusahaan": "IMC Pelita Logistik Tbk.",
+  "Tanggal_Pencatatan": "05 Des 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 676,
+  "Kode": "PTBA",
+  "Nama_Perusahaan": "Bukit Asam Tbk.",
+  "Tanggal_Pencatatan": "23 Des 2002",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 677,
+  "Kode": "PTDU",
+  "Nama_Perusahaan": "Djasa Ubersakti Tbk.",
+  "Tanggal_Pencatatan": "08 Des 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 678,
+  "Kode": "PTIS",
+  "Nama_Perusahaan": "Indo Straits Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 679,
+  "Kode": "PTMP",
+  "Nama_Perusahaan": "Mitra Pack Tbk.",
+  "Tanggal_Pencatatan": "06 Mar 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 680,
+  "Kode": "PTPP",
+  "Nama_Perusahaan": "PP (Persero) Tbk.",
+  "Tanggal_Pencatatan": "09 Feb 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 681,
+  "Kode": "PTPS",
+  "Nama_Perusahaan": "Pulau Subur Tbk.",
+  "Tanggal_Pencatatan": "09 Okt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 682,
+  "Kode": "PTPW",
+  "Nama_Perusahaan": "Pratama Widya Tbk.",
+  "Tanggal_Pencatatan": "07 Feb 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 683,
+  "Kode": "PTRO",
+  "Nama_Perusahaan": "Petrosea Tbk.",
+  "Tanggal_Pencatatan": "21 Mei 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 684,
+  "Kode": "PTSN",
+  "Nama_Perusahaan": "Sat Nusapersada Tbk",
+  "Tanggal_Pencatatan": "08 Nov 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 685,
+  "Kode": "PTSP",
+  "Nama_Perusahaan": "Pioneerindo Gourmet Internatio",
+  "Tanggal_Pencatatan": "30 Mei 1994",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 686,
+  "Kode": "PUDP",
+  "Nama_Perusahaan": "Pudjiadi Prestige Tbk.",
+  "Tanggal_Pencatatan": "18 Nov 1994",
+  "Papan_Pencatatan": "UTAMA"
+ },
+ {
+  "No": 687,
+  "Kode": "PURA",
+  "Nama_Perusahaan": "Putra Rajawali Kencana Tbk.",
+  "Tanggal_Pencatatan": "29 Jan 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 688,
+  "Kode": "PURE",
+  "Nama_Perusahaan": "Trinitan Metals and Minerals T",
+  "Tanggal_Pencatatan": "09 Okt 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 689,
+  "Kode": "PURI",
+  "Nama_Perusahaan": "Puri Global Sukses Tbk.",
+  "Tanggal_Pencatatan": "08 Sep 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 690,
+  "Kode": "PWON",
+  "Nama_Perusahaan": "Pakuwon Jati Tbk.",
+  "Tanggal_Pencatatan": "09 Okt 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 691,
+  "Kode": "PYFA",
+  "Nama_Perusahaan": "Pyridam Farma Tbk",
+  "Tanggal_Pencatatan": "16 Okt 2001",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 692,
+  "Kode": "PZZA",
+  "Nama_Perusahaan": "Sarimelati Kencana Tbk.",
+  "Tanggal_Pencatatan": "23 Mei 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 693,
+  "Kode": "RAAM",
+  "Nama_Perusahaan": "Tripar Multivision Plus Tbk.",
+  "Tanggal_Pencatatan": "08 Mei 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 694,
+  "Kode": "RAFI",
+  "Nama_Perusahaan": "Sari Kreasi Boga Tbk.",
+  "Tanggal_Pencatatan": "05 Agt 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 695,
+  "Kode": "RAJA",
+  "Nama_Perusahaan": "Rukun Raharja Tbk.",
+  "Tanggal_Pencatatan": "19 Apr 2006",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 696,
+  "Kode": "RALS",
+  "Nama_Perusahaan": "Ramayana Lestari Sentosa Tbk.",
+  "Tanggal_Pencatatan": "24 Jul 1996",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 697,
+  "Kode": "RANC",
+  "Nama_Perusahaan": "Supra Boga Lestari Tbk.",
+  "Tanggal_Pencatatan": "07 Jun 2012",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 698,
+  "Kode": "RBMS",
+  "Nama_Perusahaan": "Ristia Bintang Mahkotasejati T",
+  "Tanggal_Pencatatan": "19 Des 1997",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 699,
+  "Kode": "RCCC",
+  "Nama_Perusahaan": "Utama Radar Cahaya Tbk.",
+  "Tanggal_Pencatatan": "02 Agt 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 700,
+  "Kode": "RDTX",
+  "Nama_Perusahaan": "Roda Vivatex Tbk",
+  "Tanggal_Pencatatan": "14 Mei 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 701,
+  "Kode": "REAL",
+  "Nama_Perusahaan": "Repower Asia Indonesia Tbk.",
+  "Tanggal_Pencatatan": "06 Des 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 702,
+  "Kode": "RELF",
+  "Nama_Perusahaan": "Graha Mitra Asia Tbk.",
+  "Tanggal_Pencatatan": "22 Jun 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 703,
+  "Kode": "RELI",
+  "Nama_Perusahaan": "Reliance Sekuritas Indonesia T",
+  "Tanggal_Pencatatan": "13 Jul 2005",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 704,
+  "Kode": "RGAS",
+  "Nama_Perusahaan": "Kian Santang Muliatama Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 705,
+  "Kode": "RICY",
+  "Nama_Perusahaan": "Ricky Putra Globalindo Tbk",
+  "Tanggal_Pencatatan": "22 Jan 1998",
+  "Papan_Pencatatan": "UTAMA"
+ },
+ {
+  "No": 706,
+  "Kode": "RIGS",
+  "Nama_Perusahaan": "Rig Tenders Indonesia Tbk.",
+  "Tanggal_Pencatatan": "05 Mar 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 707,
+  "Kode": "RIMO",
+  "Nama_Perusahaan": "Rimo International Lestari Tbk",
+  "Tanggal_Pencatatan": "10 Nov 2000",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 708,
+  "Kode": "RISE",
+  "Nama_Perusahaan": "Jaya Sukses Makmur Sentosa Tbk",
+  "Tanggal_Pencatatan": "09 Jul 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 709,
+  "Kode": "RMBA",
+  "Nama_Perusahaan": "Bentoel Internasional Investam",
+  "Tanggal_Pencatatan": "05 Mar 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 710,
+  "Kode": "RMKE",
+  "Nama_Perusahaan": "RMK Energy Tbk.",
+  "Tanggal_Pencatatan": "07 Des 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 711,
+  "Kode": "RMKO",
+  "Nama_Perusahaan": "Royaltama Mulia Kontraktorindo",
+  "Tanggal_Pencatatan": "31 Jul 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 712,
+  "Kode": "ROCK",
+  "Nama_Perusahaan": "Rockfields Properti Indonesia ",
+  "Tanggal_Pencatatan": "10 Sep 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 713,
+  "Kode": "RODA",
+  "Nama_Perusahaan": "Pikko Land Development Tbk.",
+  "Tanggal_Pencatatan": "22 Okt 2001",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 714,
+  "Kode": "RONY",
+  "Nama_Perusahaan": "Aesler Grup Internasional Tbk.",
+  "Tanggal_Pencatatan": "09 Apr 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 715,
+  "Kode": "ROTI",
+  "Nama_Perusahaan": "Nippon Indosari Corpindo Tbk.",
+  "Tanggal_Pencatatan": "28 Jun 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 716,
+  "Kode": "RSCH",
+  "Nama_Perusahaan": "Charlie Hospital Semarang Tbk.",
+  "Tanggal_Pencatatan": "28 Agt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 717,
+  "Kode": "RSGK",
+  "Nama_Perusahaan": "Kedoya Adyaraya Tbk.",
+  "Tanggal_Pencatatan": "08 Sep 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 718,
+  "Kode": "RUIS",
+  "Nama_Perusahaan": "Radiant Utama Interinsco Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2006",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 719,
+  "Kode": "RUNS",
+  "Nama_Perusahaan": "Global Sukses Solusi Tbk.",
+  "Tanggal_Pencatatan": "08 Sep 2021",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 720,
+  "Kode": "SAFE",
+  "Nama_Perusahaan": "Steady Safe Tbk",
+  "Tanggal_Pencatatan": "15 Agt 1994",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 721,
+  "Kode": "SAGE",
+  "Nama_Perusahaan": "Saptausaha Gemilangindah Tbk.",
+  "Tanggal_Pencatatan": "08 Mar 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 722,
+  "Kode": "SAME",
+  "Nama_Perusahaan": "Sarana Meditama Metropolitan T",
+  "Tanggal_Pencatatan": "11 Jan 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 723,
+  "Kode": "SAMF",
+  "Nama_Perusahaan": "Saraswanti Anugerah Makmur Tbk",
+  "Tanggal_Pencatatan": "31 Mar 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 724,
+  "Kode": "SAPX",
+  "Nama_Perusahaan": "Satria Antaran Prima Tbk.",
+  "Tanggal_Pencatatan": "03 Okt 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 725,
+  "Kode": "SATU",
+  "Nama_Perusahaan": "Kota Satu Properti Tbk.",
+  "Tanggal_Pencatatan": "05 Nov 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 726,
+  "Kode": "SBAT",
+  "Nama_Perusahaan": "Sejahtera Bintang Abadi Textil",
+  "Tanggal_Pencatatan": "08 Apr 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 727,
+  "Kode": "SBMA",
+  "Nama_Perusahaan": "Surya Biru Murni Acetylene Tbk",
+  "Tanggal_Pencatatan": "08 Sep 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 728,
+  "Kode": "SCCO",
+  "Nama_Perusahaan": "Supreme Cable Manufacturing & ",
+  "Tanggal_Pencatatan": "20 Jul 1982",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 729,
+  "Kode": "SCMA",
+  "Nama_Perusahaan": "Surya Citra Media Tbk.",
+  "Tanggal_Pencatatan": "16 Jul 2002",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 730,
+  "Kode": "SCNP",
+  "Nama_Perusahaan": "Selaras Citra Nusantara Perkas",
+  "Tanggal_Pencatatan": "07 Sep 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 731,
+  "Kode": "SCPI",
+  "Nama_Perusahaan": "Organon Pharma Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Jun 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 732,
+  "Kode": "SDMU",
+  "Nama_Perusahaan": "Sidomulyo Selaras Tbk.",
+  "Tanggal_Pencatatan": "12 Jul 2011",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 733,
+  "Kode": "SDPC",
+  "Nama_Perusahaan": "Millennium Pharmacon Internati",
+  "Tanggal_Pencatatan": "07 Mei 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 734,
+  "Kode": "SDRA",
+  "Nama_Perusahaan": "Bank Woori Saudara Indonesia 1",
+  "Tanggal_Pencatatan": "15 Des 2006",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 735,
+  "Kode": "SEMA",
+  "Nama_Perusahaan": "Semacom Integrated Tbk.",
+  "Tanggal_Pencatatan": "10 Jan 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 736,
+  "Kode": "SFAN",
+  "Nama_Perusahaan": "Surya Fajar Capital Tbk.",
+  "Tanggal_Pencatatan": "19 Jun 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 737,
+  "Kode": "SGER",
+  "Nama_Perusahaan": "Sumber Global Energy Tbk.",
+  "Tanggal_Pencatatan": "10 Agt 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 738,
+  "Kode": "SGRO",
+  "Nama_Perusahaan": "Sampoerna Agro Tbk.",
+  "Tanggal_Pencatatan": "18 Jun 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 739,
+  "Kode": "SHID",
+  "Nama_Perusahaan": "Hotel Sahid Jaya International",
+  "Tanggal_Pencatatan": "08 Mei 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 740,
+  "Kode": "SHIP",
+  "Nama_Perusahaan": "Sillo Maritime Perdana Tbk.",
+  "Tanggal_Pencatatan": "16 Jun 2016",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 741,
+  "Kode": "SICO",
+  "Nama_Perusahaan": "Sigma Energy Compressindo Tbk.",
+  "Tanggal_Pencatatan": "08 Apr 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 742,
+  "Kode": "SIDO",
+  "Nama_Perusahaan": "Industri Jamu dan Farmasi Sido",
+  "Tanggal_Pencatatan": "18 Des 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 743,
+  "Kode": "SILO",
+  "Nama_Perusahaan": "Siloam International Hospitals",
+  "Tanggal_Pencatatan": "12 Sep 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 744,
+  "Kode": "SIMA",
+  "Nama_Perusahaan": "Siwani Makmur Tbk",
+  "Tanggal_Pencatatan": "03 Jun 1994",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 745,
+  "Kode": "SIMP",
+  "Nama_Perusahaan": "Salim Ivomas Pratama Tbk.",
+  "Tanggal_Pencatatan": "09 Jun 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 746,
+  "Kode": "SINI",
+  "Nama_Perusahaan": "Singaraja Putra Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 747,
+  "Kode": "SIPD",
+  "Nama_Perusahaan": "Sreeya Sewu Indonesia Tbk.",
+  "Tanggal_Pencatatan": "27 Des 1996",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 748,
+  "Kode": "SKBM",
+  "Nama_Perusahaan": "Sekar Bumi Tbk.",
+  "Tanggal_Pencatatan": "28 Sep 2012",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 749,
+  "Kode": "SKLT",
+  "Nama_Perusahaan": "Sekar Laut Tbk.",
+  "Tanggal_Pencatatan": "08 Sep 1993",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 750,
+  "Kode": "SKRN",
+  "Nama_Perusahaan": "Superkrane Mitra Utama Tbk.",
+  "Tanggal_Pencatatan": "11 Okt 2018",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 751,
+  "Kode": "SKYB",
+  "Nama_Perusahaan": "Northcliff Citranusa Indonesia",
+  "Tanggal_Pencatatan": "07 Jul 2010",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 752,
+  "Kode": "SLIS",
+  "Nama_Perusahaan": "Gaya Abadi Sempurna Tbk.",
+  "Tanggal_Pencatatan": "07 Okt 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 753,
+  "Kode": "SMAR",
+  "Nama_Perusahaan": "Smart Tbk.",
+  "Tanggal_Pencatatan": "20 Nov 1992",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 754,
+  "Kode": "SMBR",
+  "Nama_Perusahaan": "Semen Baturaja Tbk.",
+  "Tanggal_Pencatatan": "28 Jun 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 755,
+  "Kode": "SMCB",
+  "Nama_Perusahaan": "Solusi Bangun Indonesia Tbk.",
+  "Tanggal_Pencatatan": "10 Agt 1977",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 756,
+  "Kode": "SMDM",
+  "Nama_Perusahaan": "Suryamas Dutamakmur Tbk.",
+  "Tanggal_Pencatatan": "12 Okt 1995",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 757,
+  "Kode": "SMDR",
+  "Nama_Perusahaan": "Samudera Indonesia  Tbk.",
+  "Tanggal_Pencatatan": "05 Jul 1999",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 758,
+  "Kode": "SMGR",
+  "Nama_Perusahaan": "Semen Indonesia (Persero) Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 1991",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 759,
+  "Kode": "SMIL",
+  "Nama_Perusahaan": "Sarana Mitra Luas Tbk.",
+  "Tanggal_Pencatatan": "12 Mei 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 760,
+  "Kode": "SMKL",
+  "Nama_Perusahaan": "Satyamitra Kemas Lestari Tbk.",
+  "Tanggal_Pencatatan": "11 Jul 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 761,
+  "Kode": "SMKM",
+  "Nama_Perusahaan": "Sumber Mas Konstruksi Tbk.",
+  "Tanggal_Pencatatan": "09 Mar 2022",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 762,
+  "Kode": "SMMA",
+  "Nama_Perusahaan": "Sinarmas Multiartha Tbk.",
+  "Tanggal_Pencatatan": "05 Jul 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 763,
+  "Kode": "SMMT",
+  "Nama_Perusahaan": "Golden Eagle Energy Tbk.",
+  "Tanggal_Pencatatan": "01 Des 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 764,
+  "Kode": "SMRA",
+  "Nama_Perusahaan": "Summarecon Agung Tbk.",
+  "Tanggal_Pencatatan": "07 Mei 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 765,
+  "Kode": "SMRU",
+  "Nama_Perusahaan": "SMR Utama Tbk.",
+  "Tanggal_Pencatatan": "10 Okt 2011",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 766,
+  "Kode": "SMSM",
+  "Nama_Perusahaan": "Selamat Sempurna Tbk.",
+  "Tanggal_Pencatatan": "09 Sep 1996",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 767,
+  "Kode": "SNLK",
+  "Nama_Perusahaan": "Sunter Lakeside Hotel Tbk.",
+  "Tanggal_Pencatatan": "29 Mar 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 768,
+  "Kode": "SOCI",
+  "Nama_Perusahaan": "Soechi Lines Tbk.",
+  "Tanggal_Pencatatan": "03 Des 2014",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 769,
+  "Kode": "SOFA",
+  "Nama_Perusahaan": "Boston Furniture Industries Tb",
+  "Tanggal_Pencatatan": "07 Jul 2020",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 770,
+  "Kode": "SOHO",
+  "Nama_Perusahaan": "Soho Global Health Tbk.",
+  "Tanggal_Pencatatan": "08 Sep 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 771,
+  "Kode": "SONA",
+  "Nama_Perusahaan": "Sona Topas Tourism Industry Tb",
+  "Tanggal_Pencatatan": "21 Jul 1992",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 772,
+  "Kode": "SOSS",
+  "Nama_Perusahaan": "Shield On Service Tbk.",
+  "Tanggal_Pencatatan": "06 Nov 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 773,
+  "Kode": "SOTS",
+  "Nama_Perusahaan": "Satria Mega Kencana Tbk.",
+  "Tanggal_Pencatatan": "10 Des 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 774,
+  "Kode": "SOUL",
+  "Nama_Perusahaan": "Mitra Tirta Buwana Tbk.",
+  "Tanggal_Pencatatan": "06 Jan 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 775,
+  "Kode": "SPMA",
+  "Nama_Perusahaan": "Suparma Tbk.",
+  "Tanggal_Pencatatan": "16 Nov 1994",
+  "Papan_Pencatatan": "UTAMA"
+ },
+ {
+  "No": 776,
+  "Kode": "SPTO",
+  "Nama_Perusahaan": "Surya Pertiwi Tbk.",
+  "Tanggal_Pencatatan": "14 Mei 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 777,
+  "Kode": "SQMI",
+  "Nama_Perusahaan": "Wilton Makmur Indonesia Tbk.",
+  "Tanggal_Pencatatan": "15 Jul 2004",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 778,
+  "Kode": "SRAJ",
+  "Nama_Perusahaan": "Sejahteraraya Anugrahjaya Tbk.",
+  "Tanggal_Pencatatan": "11 Apr 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 779,
+  "Kode": "SRIL",
+  "Nama_Perusahaan": "Sri Rejeki Isman Tbk.",
+  "Tanggal_Pencatatan": "17 Jun 2013",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 780,
+  "Kode": "SRSN",
+  "Nama_Perusahaan": "Indo Acidatama Tbk",
+  "Tanggal_Pencatatan": "11 Jan 1993",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 781,
+  "Kode": "SRTG",
+  "Nama_Perusahaan": "Saratoga Investama Sedaya Tbk.",
+  "Tanggal_Pencatatan": "26 Jun 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 782,
+  "Kode": "SSIA",
+  "Nama_Perusahaan": "Surya Semesta Internusa Tbk.",
+  "Tanggal_Pencatatan": "27 Mar 1997",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 783,
+  "Kode": "SSMS",
+  "Nama_Perusahaan": "Sawit Sumbermas Sarana Tbk.",
+  "Tanggal_Pencatatan": "12 Des 2013",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 784,
+  "Kode": "SSTM",
+  "Nama_Perusahaan": "Sunson Textile Manufacture Tbk",
+  "Tanggal_Pencatatan": "20 Agt 1997",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 785,
+  "Kode": "STAA",
+  "Nama_Perusahaan": "Sumber Tani Agung Resources Tb",
+  "Tanggal_Pencatatan": "10 Mar 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 786,
+  "Kode": "STAR",
+  "Nama_Perusahaan": "Buana Artha Anugerah Tbk.",
+  "Tanggal_Pencatatan": "13 Jul 2011",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 787,
+  "Kode": "STRK",
+  "Nama_Perusahaan": "Lovina Beach Brewery Tbk.",
+  "Tanggal_Pencatatan": "10 Okt 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 788,
+  "Kode": "STTP",
+  "Nama_Perusahaan": "Siantar Top Tbk.",
+  "Tanggal_Pencatatan": "16 Des 1996",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 789,
+  "Kode": "SUGI",
+  "Nama_Perusahaan": "Sugih Energy Tbk.",
+  "Tanggal_Pencatatan": "19 Jun 2002",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 790,
+  "Kode": "SULI",
+  "Nama_Perusahaan": "SLJ Global Tbk.",
+  "Tanggal_Pencatatan": "21 Mar 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 791,
+  "Kode": "SUNI",
+  "Nama_Perusahaan": "Sunindo Pratama Tbk.",
+  "Tanggal_Pencatatan": "09 Jan 2023",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 792,
+  "Kode": "SUPR",
+  "Nama_Perusahaan": "Solusi Tunas Pratama Tbk.",
+  "Tanggal_Pencatatan": "11 Okt 2011",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 793,
+  "Kode": "SURE",
+  "Nama_Perusahaan": "Super Energy Tbk.",
+  "Tanggal_Pencatatan": "05 Okt 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 794,
+  "Kode": "SURI",
+  "Nama_Perusahaan": "Maja Agung Latexindo Tbk.",
+  "Tanggal_Pencatatan": "07 Des 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 795,
+  "Kode": "SWAT",
+  "Nama_Perusahaan": "Sriwahana Adityakarta Tbk.",
+  "Tanggal_Pencatatan": "08 Jun 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 796,
+  "Kode": "SWID",
+  "Nama_Perusahaan": "Saraswanti Indoland Developmen",
+  "Tanggal_Pencatatan": "07 Jul 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 797,
+  "Kode": "TALF",
+  "Nama_Perusahaan": "Tunas Alfin Tbk.",
+  "Tanggal_Pencatatan": "17 Jan 2014",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 798,
+  "Kode": "TAMA",
+  "Nama_Perusahaan": "Lancartama Sejati Tbk.",
+  "Tanggal_Pencatatan": "10 Feb 2020",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 799,
+  "Kode": "TAMU",
+  "Nama_Perusahaan": "Pelayaran Tamarin Samudra Tbk.",
+  "Tanggal_Pencatatan": "10 Mei 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 800,
+  "Kode": "TAPG",
+  "Nama_Perusahaan": "Triputra Agro Persada Tbk.",
+  "Tanggal_Pencatatan": "12 Apr 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 801,
+  "Kode": "TARA",
+  "Nama_Perusahaan": "Agung Semesta Sejahtera Tbk.",
+  "Tanggal_Pencatatan": "11 Jul 2014",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 802,
+  "Kode": "TAXI",
+  "Nama_Perusahaan": "Express Transindo Utama Tbk.",
+  "Tanggal_Pencatatan": "02 Nov 2012",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 803,
+  "Kode": "TAYS",
+  "Nama_Perusahaan": "Jaya Swarasa Agung Tbk.",
+  "Tanggal_Pencatatan": "06 Des 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 804,
+  "Kode": "TBIG",
+  "Nama_Perusahaan": "Tower Bersama Infrastructure T",
+  "Tanggal_Pencatatan": "26 Okt 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 805,
+  "Kode": "TBLA",
+  "Nama_Perusahaan": "Tunas Baru Lampung Tbk.",
+  "Tanggal_Pencatatan": "14 Feb 2000",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 806,
+  "Kode": "TBMS",
+  "Nama_Perusahaan": "Tembaga Mulia Semanan Tbk.",
+  "Tanggal_Pencatatan": "23 Mei 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 807,
+  "Kode": "TCID",
+  "Nama_Perusahaan": "Mandom Indonesia Tbk.",
+  "Tanggal_Pencatatan": "30 Sep 1993",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 808,
+  "Kode": "TCPI",
+  "Nama_Perusahaan": "Transcoal Pacific Tbk.",
+  "Tanggal_Pencatatan": "06 Jul 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 809,
+  "Kode": "TDPM",
+  "Nama_Perusahaan": "Tridomain Performance Material",
+  "Tanggal_Pencatatan": "09 Apr 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 810,
+  "Kode": "TEBE",
+  "Nama_Perusahaan": "Dana Brata Luhur Tbk.",
+  "Tanggal_Pencatatan": "18 Nov 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 811,
+  "Kode": "TECH",
+  "Nama_Perusahaan": "Indosterling Technomedia Tbk.",
+  "Tanggal_Pencatatan": "04 Jun 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 812,
+  "Kode": "TELE",
+  "Nama_Perusahaan": "Omni Inovasi Indonesia Tbk.",
+  "Tanggal_Pencatatan": "12 Jan 2012",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 813,
+  "Kode": "TFAS",
+  "Nama_Perusahaan": "Telefast Indonesia Tbk.",
+  "Tanggal_Pencatatan": "17 Sep 2019",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 814,
+  "Kode": "TFCO",
+  "Nama_Perusahaan": "Tifico Fiber Indonesia Tbk.",
+  "Tanggal_Pencatatan": "26 Feb 1980",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 815,
+  "Kode": "TGKA",
+  "Nama_Perusahaan": "Tigaraksa Satria Tbk.",
+  "Tanggal_Pencatatan": "11 Jun 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 816,
+  "Kode": "TGRA",
+  "Nama_Perusahaan": "Terregra Asia Energy Tbk.",
+  "Tanggal_Pencatatan": "16 Mei 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 817,
+  "Kode": "TGUK",
+  "Nama_Perusahaan": "Platinum Wahab Nusantara Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 818,
+  "Kode": "TIFA",
+  "Nama_Perusahaan": "KDB Tifa Finance Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2011",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 819,
+  "Kode": "TINS",
+  "Nama_Perusahaan": "Timah Tbk.",
+  "Tanggal_Pencatatan": "19 Okt 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 820,
+  "Kode": "TIRA",
+  "Nama_Perusahaan": "Tira Austenite Tbk",
+  "Tanggal_Pencatatan": "27 Jul 1993",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 821,
+  "Kode": "TIRT",
+  "Nama_Perusahaan": "Tirta Mahakam Resources Tbk",
+  "Tanggal_Pencatatan": "13 Des 1999",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 822,
+  "Kode": "TKIM",
+  "Nama_Perusahaan": "Pabrik Kertas Tjiwi Kimia Tbk.",
+  "Tanggal_Pencatatan": "03 Apr 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 823,
+  "Kode": "TLDN",
+  "Nama_Perusahaan": "Teladan Prima Agro Tbk.",
+  "Tanggal_Pencatatan": "12 Apr 2022",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 824,
+  "Kode": "TLKM",
+  "Nama_Perusahaan": "Telkom Indonesia (Persero) Tbk",
+  "Tanggal_Pencatatan": "14 Nov 1995",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 825,
+  "Kode": "TMAS",
+  "Nama_Perusahaan": "Temas Tbk.",
+  "Tanggal_Pencatatan": "09 Jul 2003",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 826,
+  "Kode": "TMPO",
+  "Nama_Perusahaan": "Tempo Intimedia Tbk.",
+  "Tanggal_Pencatatan": "08 Jan 2001",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 827,
+  "Kode": "TNCA",
+  "Nama_Perusahaan": "Trimuda Nuansa Citra Tbk.",
+  "Tanggal_Pencatatan": "28 Jun 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 828,
+  "Kode": "TOBA",
+  "Nama_Perusahaan": "TBS Energi Utama Tbk.",
+  "Tanggal_Pencatatan": "06 Jul 2012",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 829,
+  "Kode": "TOOL",
+  "Nama_Perusahaan": "Rohartindo Nusantara Luas Tbk.",
+  "Tanggal_Pencatatan": "09 Agt 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 830,
+  "Kode": "TOPS",
+  "Nama_Perusahaan": "Totalindo Eka Persada Tbk.",
+  "Tanggal_Pencatatan": "16 Jun 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 831,
+  "Kode": "TOTL",
+  "Nama_Perusahaan": "Total Bangun Persada Tbk.",
+  "Tanggal_Pencatatan": "25 Jul 2006",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 832,
+  "Kode": "TOTO",
+  "Nama_Perusahaan": "Surya Toto Indonesia Tbk.",
+  "Tanggal_Pencatatan": "30 Okt 1990",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 833,
+  "Kode": "TOWR",
+  "Nama_Perusahaan": "Sarana Menara Nusantara Tbk.",
+  "Tanggal_Pencatatan": "08 Mar 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 834,
+  "Kode": "TOYS",
+  "Nama_Perusahaan": "Sunindo Adipersada Tbk.",
+  "Tanggal_Pencatatan": "06 Agt 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 835,
+  "Kode": "TPIA",
+  "Nama_Perusahaan": "Chandra Asri Petrochemical Tbk",
+  "Tanggal_Pencatatan": "26 Mei 2008",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 836,
+  "Kode": "TPMA",
+  "Nama_Perusahaan": "Trans Power Marine Tbk.",
+  "Tanggal_Pencatatan": "20 Feb 2013",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 837,
+  "Kode": "TRAM",
+  "Nama_Perusahaan": "Trada Alam Minera Tbk.",
+  "Tanggal_Pencatatan": "10 Sep 2008",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 838,
+  "Kode": "TRGU",
+  "Nama_Perusahaan": "Cerestar Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 839,
+  "Kode": "TRIL",
+  "Nama_Perusahaan": "Triwira Insanlestari Tbk.",
+  "Tanggal_Pencatatan": "28 Jan 2008",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 840,
+  "Kode": "TRIM",
+  "Nama_Perusahaan": "Trimegah Sekuritas Indonesia T",
+  "Tanggal_Pencatatan": "31 Jan 2000",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 841,
+  "Kode": "TRIN",
+  "Nama_Perusahaan": "Perintis Triniti Properti Tbk.",
+  "Tanggal_Pencatatan": "15 Jan 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 842,
+  "Kode": "TRIO",
+  "Nama_Perusahaan": "Trikomsel Oke Tbk.",
+  "Tanggal_Pencatatan": "14 Apr 2009",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 843,
+  "Kode": "TRIS",
+  "Nama_Perusahaan": "Trisula International Tbk.",
+  "Tanggal_Pencatatan": "28 Jun 2012",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 844,
+  "Kode": "TRJA",
+  "Nama_Perusahaan": "Transkon Jaya Tbk.",
+  "Tanggal_Pencatatan": "27 Agt 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 845,
+  "Kode": "TRON",
+  "Nama_Perusahaan": "Teknologi Karya Digital Nusa T",
+  "Tanggal_Pencatatan": "08 Mar 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 846,
+  "Kode": "TRST",
+  "Nama_Perusahaan": "Trias Sentosa Tbk.",
+  "Tanggal_Pencatatan": "02 Jul 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 847,
+  "Kode": "TRUE",
+  "Nama_Perusahaan": "Triniti Dinamik Tbk.",
+  "Tanggal_Pencatatan": "10 Jun 2021",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 848,
+  "Kode": "TRUK",
+  "Nama_Perusahaan": "Guna Timur Raya Tbk.",
+  "Tanggal_Pencatatan": "23 Mei 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 849,
+  "Kode": "TRUS",
+  "Nama_Perusahaan": "Trust Finance Indonesia Tbk",
+  "Tanggal_Pencatatan": "28 Nov 2002",
+  "Papan_Pencatatan": "PENGEMBANGAN"
+ },
+ {
+  "No": 850,
+  "Kode": "TSPC",
+  "Nama_Perusahaan": "Tempo Scan Pacific Tbk.",
+  "Tanggal_Pencatatan": "17 Jun 1994",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 851,
+  "Kode": "TUGU",
+  "Nama_Perusahaan": "Asuransi Tugu Pratama Indonesi",
+  "Tanggal_Pencatatan": "28 Mei 2018",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 852,
+  "Kode": "TYRE",
+  "Nama_Perusahaan": "King Tire Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Mei 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 853,
+  "Kode": "UANG",
+  "Nama_Perusahaan": "Pakuan Tbk.",
+  "Tanggal_Pencatatan": "06 Jul 2020",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 854,
+  "Kode": "UCID",
+  "Nama_Perusahaan": "Uni-Charm Indonesia Tbk.",
+  "Tanggal_Pencatatan": "20 Des 2019",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 855,
+  "Kode": "UDNG",
+  "Nama_Perusahaan": "Agro Bahari Nusantara Tbk.",
+  "Tanggal_Pencatatan": "31 Okt 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 856,
+  "Kode": "UFOE",
+  "Nama_Perusahaan": "Damai Sejahtera Abadi Tbk.",
+  "Tanggal_Pencatatan": "01 Feb 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 857,
+  "Kode": "ULTJ",
+  "Nama_Perusahaan": "Ultrajaya Milk Industry & Trad",
+  "Tanggal_Pencatatan": "02 Jul 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 858,
+  "Kode": "UNIC",
+  "Nama_Perusahaan": "Unggul Indah Cahaya Tbk.",
+  "Tanggal_Pencatatan": "06 Nov 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 859,
+  "Kode": "UNIQ",
+  "Nama_Perusahaan": "Ulima Nitra Tbk.",
+  "Tanggal_Pencatatan": "08 Mar 2021",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 860,
+  "Kode": "UNIT",
+  "Nama_Perusahaan": "Nusantara Inti Corpora Tbk",
+  "Tanggal_Pencatatan": "18 Apr 2002",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 861,
+  "Kode": "UNSP",
+  "Nama_Perusahaan": "Bakrie Sumatera Plantations Tb",
+  "Tanggal_Pencatatan": "06 Mar 1990",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 862,
+  "Kode": "UNTR",
+  "Nama_Perusahaan": "United Tractors Tbk.",
+  "Tanggal_Pencatatan": "19 Sep 1989",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 863,
+  "Kode": "UNVR",
+  "Nama_Perusahaan": "Unilever Indonesia Tbk.",
+  "Tanggal_Pencatatan": "11 Jan 1982",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 864,
+  "Kode": "URBN",
+  "Nama_Perusahaan": "Urban Jakarta Propertindo Tbk.",
+  "Tanggal_Pencatatan": "10 Des 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 865,
+  "Kode": "UVCR",
+  "Nama_Perusahaan": "Trimegah Karya Pratama Tbk.",
+  "Tanggal_Pencatatan": "27 Jul 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 866,
+  "Kode": "VAST",
+  "Nama_Perusahaan": "Vastland Indonesia Tbk.",
+  "Tanggal_Pencatatan": "08 Feb 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 867,
+  "Kode": "VICI",
+  "Nama_Perusahaan": "Victoria Care Indonesia Tbk.",
+  "Tanggal_Pencatatan": "17 Des 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 868,
+  "Kode": "VICO",
+  "Nama_Perusahaan": "Victoria Investama Tbk.",
+  "Tanggal_Pencatatan": "08 Jul 2013",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 869,
+  "Kode": "VINS",
+  "Nama_Perusahaan": "Victoria Insurance Tbk.",
+  "Tanggal_Pencatatan": "28 Sep 2015",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 870,
+  "Kode": "VIVA",
+  "Nama_Perusahaan": "Visi Media Asia Tbk.",
+  "Tanggal_Pencatatan": "21 Nov 2011",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 871,
+  "Kode": "VKTR",
+  "Nama_Perusahaan": "VKTR Teknologi Mobilitas Tbk.",
+  "Tanggal_Pencatatan": "19 Jun 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 872,
+  "Kode": "VOKS",
+  "Nama_Perusahaan": "Voksel Electric Tbk.",
+  "Tanggal_Pencatatan": "20 Des 1990",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 873,
+  "Kode": "VRNA",
+  "Nama_Perusahaan": "Mizuho Leasing Indonesia Tbk.",
+  "Tanggal_Pencatatan": "25 Jun 2008",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 874,
+  "Kode": "VTNY",
+  "Nama_Perusahaan": "Venteny Fortuna International ",
+  "Tanggal_Pencatatan": "15 Des 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 875,
+  "Kode": "WAPO",
+  "Nama_Perusahaan": "Wahana Pronatural Tbk.",
+  "Tanggal_Pencatatan": "22 Jun 2001",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 876,
+  "Kode": "WEGE",
+  "Nama_Perusahaan": "Wijaya Karya Bangunan Gedung T",
+  "Tanggal_Pencatatan": "30 Nov 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 877,
+  "Kode": "WEHA",
+  "Nama_Perusahaan": "WEHA Transportasi Indonesia Tb",
+  "Tanggal_Pencatatan": "31 Mei 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 878,
+  "Kode": "WGSH",
+  "Nama_Perusahaan": "Wira Global Solusi Tbk.",
+  "Tanggal_Pencatatan": "06 Des 2021",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 879,
+  "Kode": "WICO",
+  "Nama_Perusahaan": "Wicaksana Overseas Internation",
+  "Tanggal_Pencatatan": "08 Agt 1994",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 880,
+  "Kode": "WIDI",
+  "Nama_Perusahaan": "Widiant Jaya Krenindo Tbk.",
+  "Tanggal_Pencatatan": "10 Jul 2023",
+  "Papan_Pencatatan": "Akselerasi"
+ },
+ {
+  "No": 881,
+  "Kode": "WIFI",
+  "Nama_Perusahaan": "Solusi Sinergi Digital Tbk.",
+  "Tanggal_Pencatatan": "30 Des 2020",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 882,
+  "Kode": "WIIM",
+  "Nama_Perusahaan": "Wismilak Inti Makmur Tbk.",
+  "Tanggal_Pencatatan": "18 Des 2012",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 883,
+  "Kode": "WIKA",
+  "Nama_Perusahaan": "Wijaya Karya (Persero) Tbk.",
+  "Tanggal_Pencatatan": "29 Okt 2007",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 884,
+  "Kode": "WINE",
+  "Nama_Perusahaan": "Hatten Bali Tbk.",
+  "Tanggal_Pencatatan": "10 Jan 2023",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 885,
+  "Kode": "WINR",
+  "Nama_Perusahaan": "Winner Nusantara Jaya Tbk.",
+  "Tanggal_Pencatatan": "25 Apr 2022",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 886,
+  "Kode": "WINS",
+  "Nama_Perusahaan": "Wintermar Offshore Marine Tbk.",
+  "Tanggal_Pencatatan": "29 Nov 2010",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 887,
+  "Kode": "WIRG",
+  "Nama_Perusahaan": "WIR ASIA Tbk.",
+  "Tanggal_Pencatatan": "04 Apr 2022",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 888,
+  "Kode": "WMPP",
+  "Nama_Perusahaan": "Widodo Makmur Perkasa Tbk.",
+  "Tanggal_Pencatatan": "06 Des 2021",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 889,
+  "Kode": "WMUU",
+  "Nama_Perusahaan": "Widodo Makmur Unggas Tbk.",
+  "Tanggal_Pencatatan": "02 Feb 2021",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 890,
+  "Kode": "WOMF",
+  "Nama_Perusahaan": "Wahana Ottomitra Multiartha Tb",
+  "Tanggal_Pencatatan": "13 Des 2004",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 891,
+  "Kode": "WOOD",
+  "Nama_Perusahaan": "Integra Indocabinet Tbk.",
+  "Tanggal_Pencatatan": "21 Jun 2017",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 892,
+  "Kode": "WOWS",
+  "Nama_Perusahaan": "Ginting Jaya Energi Tbk.",
+  "Tanggal_Pencatatan": "08 Nov 2019",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 893,
+  "Kode": "WSBP",
+  "Nama_Perusahaan": "Waskita Beton Precast Tbk.",
+  "Tanggal_Pencatatan": "20 Sep 2016",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 894,
+  "Kode": "WSKT",
+  "Nama_Perusahaan": "Waskita Karya (Persero) Tbk.",
+  "Tanggal_Pencatatan": "19 Des 2012",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 895,
+  "Kode": "WTON",
+  "Nama_Perusahaan": "Wijaya Karya Beton Tbk.",
+  "Tanggal_Pencatatan": "08 Apr 2014",
+  "Papan_Pencatatan": "Utama"
+ },
+ {
+  "No": 896,
+  "Kode": "YELO",
+  "Nama_Perusahaan": "Yelooo Integra Datanet Tbk.",
+  "Tanggal_Pencatatan": "29 Okt 2018",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 897,
+  "Kode": "YPAS",
+  "Nama_Perusahaan": "Yanaprima Hastapersada Tbk",
+  "Tanggal_Pencatatan": "05 Mar 2008",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 898,
+  "Kode": "YULE",
+  "Nama_Perusahaan": "Yulie Sekuritas Indonesia Tbk.",
+  "Tanggal_Pencatatan": "10 Des 2004",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 899,
+  "Kode": "ZATA",
+  "Nama_Perusahaan": "Bersama Zatta Jaya Tbk.",
+  "Tanggal_Pencatatan": "10 Nov 2022",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 900,
+  "Kode": "ZBRA",
+  "Nama_Perusahaan": "Dosni Roha Indonesia Tbk.",
+  "Tanggal_Pencatatan": "01 Agt 1991",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 901,
+  "Kode": "ZINC",
+  "Nama_Perusahaan": "Kapuas Prima Coal Tbk.",
+  "Tanggal_Pencatatan": "16 Okt 2017",
+  "Papan_Pencatatan": "Pemantauan Khusus"
+ },
+ {
+  "No": 902,
+  "Kode": "ZONE",
+  "Nama_Perusahaan": "Mega Perintis Tbk.",
+  "Tanggal_Pencatatan": "12 Des 2018",
+  "Papan_Pencatatan": "Pengembangan"
+ },
+ {
+  "No": 903,
+  "Kode": "ZYRX",
+  "Nama_Perusahaan": "Zyrexindo Mandiri Buana Tbk.",
+  "Tanggal_Pencatatan": "30 Mar 2021",
+  "Papan_Pencatatan": "Pengembangan"
+ }
+]

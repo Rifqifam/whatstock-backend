@@ -3,6 +3,7 @@ from ninja import NinjaAPI
 from .test_route import test_api
 from .user_controller import user_api
 from .auth_controller import auth_api
+from .stock_controller import stock_api
 
 # EXCEPTIONS INCLUDE
 from ..exceptions.user_exceptions import *
@@ -17,6 +18,7 @@ whatstocks_api = NinjaAPI(
 whatstocks_api.add_router("/test", test_api)
 whatstocks_api.add_router("/login", auth_api)
 whatstocks_api.add_router("/user", user_api)
+whatstocks_api.add_router("/stocks", stock_api)
 
 
 @whatstocks_api.exception_handler(ResourceNotFound)
